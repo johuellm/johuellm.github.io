@@ -22,6 +22,18 @@
   <meta property="og:description" content="{{ site.compass.description }}"/>
   <meta property="og:site_name" content="{{ site.compass.tagline }}">
 
+<script type="text/javascript">
+<!--
+function rot(s, i) {
+    // modified for general rot# from
+    // http://stackoverflow.com/a/617685/987044
+    return s.replace(/[a-zA-Z]/g, function (c) {
+        return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + i) ? c : c - 26);
+    });
+}
+//-->
+</script>
+
   {% if site.compass.include_analytics %}
   {% include analytics.html %}
   {% endif %}
