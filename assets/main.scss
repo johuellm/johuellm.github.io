@@ -2,8 +2,8 @@
 ---
 
 $text-color: #46433A;
-$anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$anchor-text-color: #4D53CE;
+$background-color: #C6D9F1;
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -38,7 +38,7 @@ a:hover {
 /*** main content list ***/
 .main-list-item {
 	font-weight: bold;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	margin: 0.8em 0;
 }
 
@@ -60,8 +60,8 @@ since it must be aligned with the content */
 }
 
 .logo {
-	width: 96px;
-	height: 96px;
+	width: 128px;
+	height: 128px;
 	display: inline-block;
 	background-size: cover;
 	border-radius: 50%;
