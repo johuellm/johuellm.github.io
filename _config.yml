@@ -5,8 +5,8 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/joschka_small.jpg"
-  logobig: "/images/joschka.jpg"
+  logo: "/images/Joschka_Huellmann_1_small.jpg"
+  logobig: "/images/Joschka_Huellmann_1.jpg"
   # mail
   mailimg: "/images/mail.png"
   # author will appear under the avatar (optional)
@@ -27,4 +27,3 @@ highlighter: pygments
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true

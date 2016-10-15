@@ -39,13 +39,17 @@ a:hover {
 .main-list-item {
 	font-weight: bold;
 	font-size: 1.0em;
-	margin: 0.8em 0;
+	margin: 0.2em 0;
+	float: left;
+	display: inline;
+	width: 50%;
+	padding: 0px;
 }
 
 /* override the left margin added by font awesome for the main content list,
 since it must be aligned with the content */
 .fa-ul.main-list {
-	margin-left: 0;
+	width: 80%;
 }
 
 /* list icons */
@@ -131,7 +135,7 @@ footer {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 760px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
