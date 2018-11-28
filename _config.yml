@@ -10,7 +10,7 @@ compass:
   # mail
   mailimg: "/images/mail.png"
   # author will appear under the avatar (optional)
-  author: "Joschka Huellmann"
+  author: "Joschka Hüllmann"
   # tagline will appear under the title (optional)
   tagline: "»Moin, moin!«"
   # if include_content is true, the contents of the content.html include will be
