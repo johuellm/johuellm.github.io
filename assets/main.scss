@@ -80,6 +80,11 @@ since it must be aligned with the content */
 	display: inline-block;
 }
 
+/*** small links for publications download ***/
+.smalllinks a {
+	font-size: 0.9em;
+}
+
 /*** author ***/
 .author-container h1 {
 	font-size: 2.8em;
