@@ -5,12 +5,12 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/Joschka_Huellmann_1_small.jpg"
-  logobig: "/images/Joschka_Huellmann_1.jpg"
+  logo: "/images/Joschka_Huellmann_small.jpg"
+  logobig: "/images/Joschka_Huellmann.jpg"
   # mail
   mailimg: "/images/mail.png"
   # author will appear under the avatar (optional)
-  author: "Joschka Hüllmann"
+  author: "Dr. Joschka Hüllmann"
   # tagline will appear under the title (optional)
   tagline: "»Moin, moin!«"
   # if include_content is true, the contents of the content.html include will be
