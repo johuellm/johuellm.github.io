@@ -6,7 +6,7 @@ $anchor-text-color: #4D53CE;
 $background-color: #DEE7F3;
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	color: $text-color;
 	background-color: $background-color;
 }
@@ -36,20 +36,25 @@ a:hover {
 
 
 /*** main content list ***/
+.main-list {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 .main-list-item {
 	font-weight: bold;
 	font-size: 1.0em;
-	margin: 0.2em 0;
-	float: left;
-	display: inline;
-	width: 50%;
+	margin: 0.15em 0;
+	width: auto;
 	padding: 0px;
+	text-align: left;
 }
 
 /* override the left margin added by font awesome for the main content list,
 since it must be aligned with the content */
 .fa-ul.main-list {
-	width: 80%;
+	width: 90%;
 }
 
 /* list icons */
