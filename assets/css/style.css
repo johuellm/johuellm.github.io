@@ -758,7 +758,7 @@ section {
   left: calc(50% - 20px);
 }
 .partners .swiper-pagination {
-  margin-top: 0px;
+  margin-top: 10px;
   position: relative;
 }
 .partners .swiper-pagination .swiper-pagination-bullet {
@@ -941,6 +941,10 @@ section {
 }
 .contact .press-kit {
   width: 150px;
+}
+
+.press-kit-box {
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
