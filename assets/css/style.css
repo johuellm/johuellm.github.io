@@ -367,11 +367,21 @@ section {
   width: 100%;
 }
 .facts .count-box i {
-  display: block;
-  font-size: 44px;
+  font-size: 30px;
   color: #149ddd;
   float: left;
-  line-height: 0;
+  width: 44px;
+  height: 44px;
+  background: #dff3fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+.count-box:hover i {
+  background: #149ddd;
+  color: #fff; 
 }
 .facts .count-box span {
   font-size: 48px;
@@ -824,7 +834,7 @@ section {
   background: #149ddd;
   color: #fff;
 }
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i, .contact .info .press-kit-box:hover i {
   background: #149ddd;
   color: #fff;
 }
@@ -928,6 +938,9 @@ section {
   100% {
     transform: rotate(360deg);
   }
+}
+.contact .press-kit {
+  width: 150px;
 }
 
 /*--------------------------------------------------------------

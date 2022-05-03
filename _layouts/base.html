@@ -66,7 +66,13 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="{{ site.baseurl }}/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        {% if page.language == "gb" %}
+        <a href="{{ site.baseurl }}/#contact">
+        {% elsif page.language == "de" %}
+        <a href="{{ site.baseurl }}/de/#contact">
+        {% endif %}
+          <img src="{{ site.baseurl }}/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle"></a>
+        </a>
         <h1 class="text-light"><a href="index.html">Joschka Hüllmann</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/johuellm" class="twitter"><i class="bx bxl-twitter"></i></a>
