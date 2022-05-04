@@ -939,6 +939,12 @@ section {
     transform: rotate(360deg);
   }
 }
+
+.contact .press-kit i:hover {
+  background: #149ddd;
+  color: #fff;
+}
+
 .contact .press-kit-box {
   text-align: center;
 }
