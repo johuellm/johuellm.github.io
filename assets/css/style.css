@@ -939,12 +939,16 @@ section {
     transform: rotate(360deg);
   }
 }
-.contact .press-kit {
+.contact .press-kit-box {
+  text-align: center;
+}
+
+.contact .press-kit-box img {
   width: 150px;
 }
 
-.press-kit-box {
-  text-align: center;
+.contact .press-kit-box a {
+  display: inline-block;
 }
 
 /*--------------------------------------------------------------
