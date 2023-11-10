@@ -1,0 +1,187 @@
+- text: "<b>Hüllmann, J. A.</b>, Grisold T., &amp; vom Brocke, J. (<i>seeking collaborators</i>). Social Process Science: Process Theorizing from Digital Traces and Qualitative Data (working title)."
+  section: "Working Papers"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (<i>seeking collaborators</i>). Beyond the Formal: Drivers of Informal Communication in Enterprise Social Networks."
+  section: "Working Papers"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (<i>seeking collaborators</i>). ExplainableAI for Human-AI Joint Decision-Making in Farming Practice (working title)."
+  section: "Working Papers"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b>, Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2023). Servitization in Automotive: The Digital Transformation of Selling Product-Service Systems at a Large German Car Manufacturer. In Proceedings of the 31st European Conference on Information Systems (ECIS), Kristiansand, Norway."
+  links:
+    download: "2023-03-29-ECIS-2023-Template-RinP-v13.pdf"
+    presentation: "#"
+  section: "2023"
+  selected: true
+
+- text: "<b>Hüllmann, J. A.</b>, Precht, H., &amp; Wübbe, C. (2023). Configurations of Human-AI Work in Agriculture: Adoption and Use of Intelligent Systems by Agricultural Workers. In Proceedings of the GIL-Jahrestagung 2023, Osnabrück, Germany."
+  links:
+    download: "2022-12-06-draft-GIL-short-paper-revision.pdf"
+    presentation: "2023-02-07-poster.pdf"
+  section: "2023"
+  selected: false
+
+- text: "Gierlich-Joas, M., &amp; <b>Hüllmann, J. A.</b> (2022). Tensions between Affordances and Valuations of People Analytics among Stakeholders. In Proceedings of the Pre-ICIS 2022, International Workshop on The Changing Nature of Work, Copenhagen, Denmark."
+  links:
+    download: "#"
+  section: "2022"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2022). ExplainableAI for Human-AI Joint Decision-Making in Farming Practice. In Proceedings of the AI@Work Track at Reshaping Work 2022 Conference, Amsterdam, The Netherlands."
+  links:
+    download: "2022-06-01-draft-AIatWORK.pdf"
+  section: "2022"
+  selected: false
+
+- text: "Hüllmann, J. A.</b>, &amp; Sensmeier, L. W. (2022). No Filter Bubbles? Evidence from an Online Experiment on the News Diversity of Personalizing News Aggregators. In Proceedings of the Pacific Asia Conference on Information Systems (PACIS), Taipai/Sydney, Taiwan/Australia. <b>*Runner-Up for Best Paper Award*</b>."
+  links:
+    download: "2022-05-31-draft-paper-pacis-final.pdf"
+    presentation: "2022-06-29-presentation-personalizing-news.pdf"
+  section: "2022"
+  selected: true
+
+- text: "<b>Hüllmann, J. A.</b> (2022). Media Choice in the Digital Era: A Replication Study using Digital Traces. In Proceedings of the 35th Bled eConference, Bled, Slovenia."
+  links:
+    download: "2022-05-23-draft-media-collections-v19-final.pdf"
+    presentation: "2022-06-24-presentation-bled.pdf"
+  section: "2022"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2022). Reconciling the Debate on People Analytics in Academia and Practice. In Proceedings of the 35th Bled eConference, Bled, Slovenia."
+  links:
+    download: "2022-05-24-draft-bled-blinded-final.pdf"
+    presentation: "2022-06-27-presentation-bled.pdf"
+  section: "2022"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2021). Smarter Work? Promises and Perils of Algorithmic Management in the Workplace Using Digital Traces. Dissertation at the University of Münster."
+  links:
+    download: "2021-09-08-final-v4-redacted.pdf"
+    presentation: "2021-02-06-presentation-defensio-v7.pdf"
+  section: "2021"
+  selected: false
+
+- text: "Thapa, R., Pankajeshwara, S., <b>Hüllmann, J. A.</b>, &amp; Savarimuthu, B. T. R. (2021). Identifying Influence Mechanisms in Permissionless Blockchain Communities: The Bitcoin Case. In Proceedings of the 42nd International Conference on Information Systems (ICIS), Austin, Texas, USA."
+  links:
+    download: "2021-09-29-final-submission-icis.pdf"
+  section: "2021"
+  selected: true
+
+- text: "<b>Hüllmann, J. A.</b>, Sivakumar, A., &amp; Krebber, S. (2021). Data Management Platforms: An Empirical Taxonomy. In Proceedings of the 34th Bled eConference, Bled, Slovenia."
+  links:
+    download: "2021-05-28-bled-revised-final.pdf"
+    presentation: "2021-06-28-presentation-bled.pdf"
+  section: "2021"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b>, Krebber, S., &amp; Troglauer, P. (2021). The IT Artifact in People Analytics: Reviewing the Tools to Understand a Nascent Field. In Proceedings of the 16th International Conference on Wirtschaftsinformatik, Duisburg-Essen, Germany."
+  links:
+    download: "2020-12-29-draft-it-artifact-formatted-v06.pdf"
+    presentation: "2021-03-04-presentation-wi-conference.pdf"
+  section: "2021"
+  selected: false
+
+- text: "Mattern, J., Lansmann, S., &amp; <b>Hüllmann, J. A.</b> (2021). Home Office due to COVID-19: It’s not that bad! Enforced Working from Home and Perceived Stress. In Proceedings of the 16th International Conference on Wirtschaftsinformatik, Duisburg-Essen, Germany."
+  links:
+    download: "2020-12-22-draft-COVID-19-and-stress_camera-ready.pdf"
+    presentation: "2021-03-10-presentation-WI21-its_not_that_bad.pdf"
+  section: "2021"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b>, &amp; Krebber, S. (2021). Replication Study: Investigating Media Choice and Types of Media Collections of Distributed Workers Using Digital Traces. In Working Papers, Münster, Germany."
+  links:
+    download: "2021-04-14-Media-Collections-v13.pdf"
+  section: "2021"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2020). KONTAKT: Willis Gänseblümchen. In Joschka's short stories."
+  links:
+    download: "2020-05-28-draft-kurzgeschichte-kontakt.pdf"
+    english: "2020-08-21-draft-kurzgeschichte-kontakt-english.pdf"
+  section: "2020"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b>, &amp; Mattern, J. (2020). Three Issues with the State of People and Workplace Analytics. In Proceedings of the 33rd Bled eConference, Bled, Slovenia."
+  links:
+    download: "2020-05-20-draft-people-analytics-issues-short-v5-revised.pdf"
+  section: "2020"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b>, &amp; Krebber, S. (2020). Identifying Temporal Rhythms using Email Traces. In Proceedings of the America's Conference of Information Systems, Salt Lake City, Utah, USA."
+  links:
+    download: "2020-04-23-draft-organisation-rhythms-revised.pdf"
+    view: "https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/17/"
+    presentation: "2020-07-02-presentation-organisational-rhythms-amcis.pdf"
+    code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/organizational-rhythms-public"
+  section: "2020"
+  selected: false
+
+- text: "Rothmeier, K., Pflanzl, N., <b>Hüllmann, J. A.</b>, &amp; Preuss, M. (2020). Prediction of Player Churn and Disengagement Based on User Activity Data of a Freemium Online Strategy Game. IEEE Transactions on Games, 13(1), 78-88."
+  links:
+    download: "2020-05-04-draft-churn-prediction-final.pdf"
+    view: "https://doi.org/10.1109/TG.2020.2992282"
+  section: "2020"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2019). Geschichten meiner Freunde: Josyp und Uljana. In Joschka's short stories."
+  links:
+    download: "2019-12-27-draft-josyp-uljana-edit.pdf"
+  section: "2019"
+  selected: false
+
+- text: "<b>Hüllmann, J. A.</b> (2019). The Construction of Meaning through Digital Traces. In Proceedings of the Pre-ICIS 2019, International Workshop on The Changing Nature of Work, München, Germany."
+  links:
+    download: "2019-11-11-huellmann-construction-meaning-digital-traces.pdf"
+  section: "2019"
+  selected: false
+
+- text: "Badmaeva, T., &amp; <b>Hüllmann, J. A.</b> (2019). Investigating Personalized Price Discrimination of Textile-, Electronics- and General Stores in German Online Retail. In Proceedings of the 14th International Conference on Wirtschaftsinformatik (WI), Siegen, Germany."
+  links:
+    - download: "2019-01-16-preprint-badmaeva-huellmann-price-discrimination-germany.pdf"
+    - view: "https://aisel.aisnet.org/wi2019/specialtrack01/papers/1/"
+    - presentation: "2019-02-27-presentation-price-discrimination.pdf"
+    - code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/pd-thesis-public"
+  section: "2019"
+  selected: False
+
+- text: "<b>Hüllmann, J. A.</b> (2018). Editorial: Crafting Work 2018. In Joschka's unpublished works."
+  links:
+    - download: "2018-12-18-outline-craft-joschi-2018-redact-update2020.pdf"
+  section: "2018"
+  selected: False
+
+- text: "<b>Hüllmann, J. A.</b> (2018). About Writing and Journals. Satura, 1(1)."
+  links:
+    - download: "2019-02-13-huellmann-about-writing-and-journals.pdf"
+  section: "2018"
+  selected: False
+
+- text: "<b>Hüllmann, J. A.</b> (2018). A Network Perspective on Collective Media Choice. NITIM 2018 Doctoral Consortium."
+  links:
+    - download: "2020-09-28-draft-nitim-proposal-revised.pdf"
+  section: "2018"
+  selected: False
+
+- text: "<b>Hüllmann, J. A.</b>, &amp; Kroll, T. (2018). The Impact of User Behaviours on the Socialisation Process in Enterprise Social Networks. In Proceedings of the 29th Australasian Conference on Information Systems (ACIS), Sydney, Australia."
+  links:
+    - download: "2018-10-18-huellmann-kroll-user-behaviour-socialisation-esn.pdf"
+    - presentation: "2018-11-30-presentation-socialisation.pdf"
+    - code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/esn-onboarding-public"
+  section: "2018"
+  selected: False
+
+- text: "Klein, S., &amp; <b>Hüllmann, J. A.</b> (2018). Datenkapitalismus akademischer Wissenschaftsverlage. Wirtschaftsdienst, 98(7), 477–480."
+  links:
+    - download: "https://rdcu.be/2YNM"
+  section: "2018"
+  selected: False
+
+- text: "<b>Hüllmann, J. A.</b> (2017). Measurement of Social Capital in Enterprise Social Networks: Identification and Visualisation of Group Metrics. Master thesis at University of Münster. <b>Runner-up for best thesis award</b>."
+  links:
+    - download: "2017-03-02-final.pdf"
+    - presentation: "2017-03-02-presentation.pdf"
+  section: "2017"
+  selected: False
