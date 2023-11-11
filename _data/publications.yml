@@ -6,6 +6,11 @@
 
   - text: "Hüllmann, J. A. (<i>seeking collaborators</i>). ExplainableAI for Human-AI Joint Decision-Making in Farming Practice (working title)."
 
+- section: "2024"
+  papers:
+    - text: "Lansmann, S., Mattern, J., Krebber, S., & Hüllmann, J. A. (2024). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People (in press)."
+      featured: true
+
 - section: "2023"
   papers:
   - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2023). Servitization in Automotive: The Digital Transformation of Selling Product-Service Systems at a Large German Car Manufacturer. In Proceedings of the 31st European Conference on Information Systems (ECIS), Kristiansand, Norway."
@@ -55,7 +60,6 @@
   - text: "Thapa, R., Pankajeshwara, S., Hüllmann, J. A., &amp; Savarimuthu, B. T. R. (2021). Identifying Influence Mechanisms in Permissionless Blockchain Communities: The Bitcoin Case. In Proceedings of the 42nd International Conference on Information Systems (ICIS), Austin, Texas, USA."
     links:
       download: "2021-09-29-final-submission-icis.pdf"
-    featured: true
 
   - text: "Hüllmann, J. A., Sivakumar, A., &amp; Krebber, S. (2021). Data Management Platforms: An Empirical Taxonomy. In Proceedings of the 34th Bled eConference, Bled, Slovenia."
     links:
