@@ -8,9 +8,10 @@ language: de
         <ul>
           <li><a href="/de/" class="nav-link scrollto"><i class="bx bx-arrow-back"></i> <span>Zurück</span></a></li>
           <li><a href="#breadcrumbs" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-          <li><a href="#press-2022" class="nav-link scrollto"><i class="bx bi-chevron-right"></i> <span>2022</span></a></li>
-          <li><a href="#press-2020" class="nav-link scrollto"><i class="bx bi-chevron-right"></i> <span>2020</span></a></li>
-          <li><a href="#press-2019" class="nav-link scrollto"><i class="bx bi-chevron-right"></i> <span>2019</span></a></li>
+          {% for section in site.data.press %}
+          {% assign title_class = section.section | downcase | replace:' ','-' %}
+          <li><a href="#{{title_class}}" class="nav-link scrollto"><i class="bx bi-chevron-right"></i> <span>{{section.section}}</span></a></li>
+          {% endfor %}
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -33,7 +34,6 @@ language: de
       </div>
     </section><!-- End Breadcrumbs -->
 
-
     <!-- ======= Intro Section ======= -->
     <section id="home" class="home">
       <div class="container">
@@ -45,135 +45,50 @@ language: de
       </div>
     </section><!-- End Intro Section -->
 
-    <!-- ======= 2023 Section ======= -->
-    <section id="press-2023" class="press-2023 section-bg">
+    {% comment %} Compute the maximum index for a numbered list {% endcomment %}
+    {% assign item_index = 0 %}
+    {% for section in site.data.press %}
+      {% assign items_length = section.items | size %}
+      {% assign item_index = item_index | plus: items_length %}
+    {% endfor %}
+    {% for section in site.data.press %}
+    {% assign title_class = section.section | downcase | replace:' ','-' %}
+    <!-- ======= {{section.section}} Section ======= -->
+    <section id="{{title_class}}" class="{{title_class}}{% cycle ' section-bg', '' %}">
       <div class="container">
 
         <div class="section-title">
-          <h2>2023</h2>
+          <h2>{{section.section}}</h2>
         </div>
 
         <div class="row">
           <div class="col-lg-12" data-aos="fade-up">
+          {% for pr in section.items %}
             <p>
-              <b>14.</b> Keynote auf dem CES Workshop zu Hybrid Work, Enschede, Niederlande, 2023. <a href="https://www.utwente.nl/en/ces/ces-newsletter/news-ces-newsletter/2023/3/556794/succes-cafe-balances-issue-no4-2023/">(link)</a>
+              <b>{{ item_index }}.</b> {{ pr.text-de }}
+                  {% if pr.links.view %}
+                    <a href="{{pr.links.view}}">(view)</a>
+                  {% endif %}
+                  {% if pr.links.download %}
+                    <a href="{{site.baseurl}}/press/{{pr.links.download}}">(download)</a>
+                  {% endif %}
+                  {% if pr.links.presentation %}
+                    <a href="{{site.baseurl}}/press/{{pr.links.presentation}}">(presentation)</a>
+                  {% endif %}
+                  {% if pr.links.english %}
+                    <a href="{{site.baseurl}}/press/{{pr.links.english}}">(english)</a>
+                  {% endif %}
+                  {% if pr.links.code %}
+                    <a href="{{pr.links.code}}">(code)</a>
+                  {% endif %}
             </p>
-
-            <p>
-              <b>13.</b> Presseerwähnung in Gegenblende Debattenmagazin: „People Analytics: Chancen, Risiken und neue Gestaltungsfragen“ (Miriam Klöpper et al., 15. Februar 2023). <a href="https://gegenblende.dgb.de/artikel/++co++b19b78ea-ad08-11ed-a803-001a4a160123">(link)</a>
-            </p>
+            {% assign item_index = item_index | minus: 1 %}
+          {% endfor %}
           </div>
         </div>
 
       </div>
-    </section><!-- End 2023 Section -->
-
-    <!-- ======= 2022 Section ======= -->
-    <section id="press-2022" class="press-2022">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>2022</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12" data-aos="fade-up">
-            <p>
-              <b>12.</b> Keynote auf dem Workshop: People Analytics in der Praxis 2022 des Alexander von Humboldt Instituts für Internet und Gesellschaft. <a href="https://www.hiig.de/events/workshop-people-analytics-in-der-betrieblichen-praxis/">(link)</a> <a href="{{site.baseurl}}/press/2022-04-07-presentation-people-analytics-erkennen.pdf">(download)</a> <a href="{{site.baseurl}}/press/2022-04-07-presentation-spot-people-analytics-eng.pdf">(english version)</a>
-            </p>
-
-            <p>
-              <b>11.</b> Presseerwähnung in OM-Online und MT-News: „Wie ein Sevelter in Taiwan den 2. Platz für relevante Forschung holte“ (Thomas Vorwerk, Printausgabe vom 08. July 2022). <a href="https://www.om-online.de/om/wie-ein-sevelter-in-taiwan-den-2-platz-fuer-relevante-forschung-holte-128588">(link)</a>
-            </p>
-
-            <p>
-              <b>10.</b> Runner-up für den Best Paper Award der Pacific Asian Conference of Information Systems (PACIS). <a href="https://aisel.aisnet.org/pacis2022/111/">(link)</a>
-            </p>
-
-            <p>
-              <b>9.</b> Mitveranstalter des Wirtschaftsinformatik-Nachwuchstreffen 2022. <a href="https://wint22.uni-muenster.de">(link)</a>
-            </p>
-
-            <p>
-              <b>8.</b> Outstanding Reviewer Reward of the 35th Bled eConference 2022. <a href="https://bledconference.org/outstanding-reviewer-award/">(link)</a>
-            </p>
-
-            <p>
-              <b>7.</b> Vortrag und Workshop bei Kaufleute und Ingenieur Netzwerk Deutschland 2022: Vor- und Nachteile bei der Anwendung von People Analytics. <a href="{{site.baseurl}}/press/2022-04-07-presentation-people-analytics-erkennen.pdf">(download)</a>
-            </p>
-
-            <p>
-              <b>6.</b> Keynote beim SHIFT/HR Innovation SUMMIT 2022: Gutes People Analytics erkennen. <a href="https://www.shifthr.de/events/hr-innovation-summit.html">(link)</a> <a href="{{site.baseurl}}/press/2022-04-07-presentation-people-analytics-erkennen.pdf">(download)</a> <a href="{{site.baseurl}}/press/2022-04-07-presentation-spot-people-analytics-eng.pdf">(english version)</a>
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End 2022 Section -->
-
-    <!-- ======= 2020 Section ======= -->
-    <section id="press-2020" class="press-2020 section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>2020</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12" data-aos="fade-up">
-            <p>
-              <b>5.</b> Honorarvorlesung bei der Hochschule Fresenius Köln: Datenökonomie: Eine Einführung. 
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End 2020 Section -->
-
-    <!-- ======= 2019 Section ======= -->
-    <section id="press-2019" class="press-2019">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>2019</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12" data-aos="fade-up">
-            <p>
-              <b>4.</b> Presseerwähnung in Heise Telepolis: „Überwachungskapitalismus und Wissenschaftssteuerung“ (Ulrich Herb, July 2019).  <a href="https://www.heise.de/tp/features/Ueberwachungskapitalismus-und-Wissenschaftssteuerung-4480357.html?seite=all">(link)</a>
-            </p>
-
-            <p>
-              <b>3.</b> Presseerwähnung in Wissen.Leben: „Keine personalisierten Preise im Online-Handel“ (13:8, Dezember 2019).  <a href="https://www.uni-muenster.de/imperia/md/content/wwu/muz/pdf-ausgaben/wl_12_2019.pdf">(link)</a>
-            </p>
-
-            <p>
-              <b>2.</b> Presseerwähnung in Süddeutsche Zeitung: „Online-Handel: Die Macht der Kunden“ (Janis Beenen, 30. Mai 2019). <a href="https://www.sueddeutsche.de/wirtschaft/online-handel-die-macht-der-kunden-1.4468120">(link)</a>
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End 2019 Section -->
-
-    <!-- ======= 2017 Section ======= -->
-    <section id="press-2017" class="press-2017 section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>2017</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12" data-aos="fade-up">
-            <p>
-              <b>1.</b> Runner-up beste Masterarbeit des Fachs Information Systems.
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End 2017 Section -->
+    </section><!-- End {{section.section}} Section -->
+    {% endfor %}
 
   </main><!-- End #main -->

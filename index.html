@@ -247,11 +247,17 @@ language: gb
         <div class="row" data-aos="fade-up">
           <p><i class="bi bi-chevron-down"></i> <strong>Selected publications:</strong></p>
 
-          {% for pub in site.data.publications %}
-          <p>
-            <b>{{ forloop.rindex }}.</b> {{ pub.text }}
-          </p>
-          {% endfor %}
+          <ol class="portfolio-list" reversed>
+            {% for section in site.data.publications %}
+            {% for pub in section.papers %}
+            {% if pub.featured %}
+            <li>
+              {{ pub.text | replace: 'Hüllmann, J. A.', '<b>Hüllmann, J. A.</b>'}}
+            </li>
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+          </ol>
 
           <p>
             <a href="/publications/"><i class='bx bx-link-external'></i>See all publications</a>
@@ -259,12 +265,19 @@ language: gb
         </div>
         <br>
         <div class="row" data-aos="fade-up">
+          <p><i class="bi bi-chevron-down"></i> <strong>Selected talks, press &amp; awards</strong></p>
 
-          {% for pr in site.data.press %}
-          <p>
-            <b>{{ forloop.rindex }}.</b> {{ pr.text }}
-          </p>
-          {% endfor %}
+          <ol class="portfolio-list" reversed>
+            {% for section in site.data.press %}
+            {% for pr in section.items %}
+            {% if pr.featured %}
+            <li>
+              {{ pr.text }}
+            </li>
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+          </ol>
 
           <p><a href="/press/"><i class='bx bx-link-external'></i>See all talks, awards &amp; press mentions </a></p>
 

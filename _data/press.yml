@@ -1,0 +1,114 @@
+- section: "2023"
+  items:
+  - text: "Keynote at the TechLabs e.V. Speaker Event on Future of Work in the Age of AI, Münster, Germany, 2023."
+    text-de: "Keynote auf dem TechLabs e.V. Speaker Event zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Münster, Deutschland, 2023."
+    featured: true
+
+  - text: "Keynote at the Industrie Digital 2023 event on AI for Industry. Organized by Niedersachsen Metall and the Ministiry for Lower Saxony Ministry of Economic Affairs, Building, Transport and Digitalization (16th November 2023)."
+    text-de: "Keynote auf den Industrie Digital 2023 Event zu KI für die Industrie. Organisiert von Niedersachsen Metall und dem Ministerium für Wirtschaft, Verkehr, Bauen und Digitalisierung (16. November 2023)."
+    links:
+      view: "https://niedersachsenmetall.de/veranstaltungen/industrie-digital-2023"
+    featured: true
+
+  - text: "Winner of the “Mentoren Award” for the technologically most sophisticated solution at the Münster-hack 2023 (#MSHACK23) with team OpenTags."
+    text-de: "Gewinner des “Mentoren Preis” für die technisch anspruchsvollste Lösung auf dem Münster-hack 2023 (#MSHACK23) mit dem Team OpenTags."
+    links:
+      view: "https://www.digitalhub.ms/stories/eventberichte/2023-09-25/muensterhack-2023-nachbericht"
+      download: "2023-09-25-news-report-mentorenpreis-mshack23.pdf"
+
+  - text: "Best Associate Editor Award at the European Conference on Information Systems (ECIS) 2023, Kristiansand, Norwegen."
+    text-de: "Best Associate Editor Award auf der European Conference on Information Systems (ECIS) 2023, Kristiansand, Norwegen."
+    links:
+      view: "https://web.archive.org/web/20230616172512/https://ecis2023.no/submissions/best-aes-reviewers/"
+      download: "2023-06-16-image-best-AE-award-ECIS-2023.pdf"
+    featured: true
+
+  - text: "Keynote at the CES Workshop on Hybrid Work, Enschede, Netherlands, 2023."
+    text-de: "Keynote auf dem CES Workshop zu Hybrid Work, Enschede, Niederlande, 2023."
+    links:
+      view: "https://www.utwente.nl/en/ces/ces-newsletter/news-ces-newsletter/2023/3/556794/succes-cafe-balances-issue-no4-2023/"
+      download: "2023-03-29-news-report-SucCES café BalanCES - Issue no4 _ 2023.pdf"
+
+  - text: "Press coverage in Gegenblende Debattenmagazin: „People Analytics: Chancen, Risiken und neue Gestaltungsfragen“ (Miriam Klöpper et al., 15th February 2023)."
+    text-de: "Presseerwähnung in Gegenblende Debattenmagazin: „People Analytics: Chancen, Risiken und neue Gestaltungsfragen“ (Miriam Klöpper et al., 15. Februar 2023)."
+    links:
+      view: "https://gegenblende.dgb.de/artikel/++co++b19b78ea-ad08-11ed-a803-001a4a160123"
+      download: "2023-02-15-news-report-gegenblende-people-analytics.pdf"
+
+
+- section: "2022"
+  items:
+  - text: "Keynote at People Analytics in Practice 2022 of the Alexander von Humboldt Institute for Internet and Society."
+    text-de: "Keynote auf dem Workshop: People Analytics in der Praxis 2022 des Alexander von Humboldt Instituts für Internet und Gesellschaft."
+    links:
+      view: "https://www.hiig.de/events/workshop-people-analytics-in-der-betrieblichen-praxis/"
+      download: "2022-04-07-news-report-hiig.pdf"
+      presentation: "2022-04-07-presentation-people-analytics-erkennen.pdf"
+      english: "2022-04-07-presentation-spot-people-analytics-eng.pdf"
+
+  - text: "Press coverage in OM-Online and MT-News: „Wie ein Sevelter in Taiwan den 2. Platz für relevante Forschung holte“ (Thomas Vorwerk, Printed issue 08th July 2022)."
+    text-de: "Presseerwähnung in OM-Online und MT-News: „Wie ein Sevelter in Taiwan den 2. Platz für relevante Forschung holte“ (Thomas Vorwerk, Printausgabe vom 08. Juli 2022)."
+    links:
+      view: "https://www.om-online.de/om/wie-ein-sevelter-in-taiwan-den-2-platz-fuer-relevante-forschung-holte-128588"
+      download: "2022-07-08-news-report-MTonline-sevelter.pdf"
+
+  - text: "Runner-up for the Best Paper Award at Pacific Asian Conference of Information Systems (PACIS)."
+    text-de: "Runner-up für den Best Paper Award der Pacific Asian Conference of Information Systems (PACIS)."
+    links:
+      view: "https://aisel.aisnet.org/pacis2022/111/"
+
+  - text: "Co-Organizer at Wirtschaftsinformatik-Nachwuchstreffen 2022 (German early career IS scholars‘ meetup)."
+    text-de: "Veranstalter des Wirtschaftsinformatik-Nachwuchstreffen 2022."
+    links:
+      view: "https://web.archive.org/web/20230609142436/https://wint22.uni-muenster.de/"
+
+  - text: "Outstanding Reviewer Reward of the 35th Bled eConference 2022."
+    text-de: "Outstanding Reviewer Reward der 35th Bled eConference 2022."
+    links:
+      view: "https://bledconference.org/outstanding-reviewer-award/"
+
+  - text: "Lecture and Workshop at Kaufleute und Ingenieur Netzwerk Deutschland 2022: Benefits & Risks of People Analytics."
+    text-de: "Vortrag und Workshop bei Kaufleute und Ingenieur Netzwerk Deutschland 2022: Vor- und Nachteile bei der Anwendung von People Analytics."
+    links:
+      presentation: "2022-04-07-presentation-people-analytics-erkennen.pdf"
+
+  - text: "Keynote at SHIFT/HR Innovation SUMMIT 2022: Spotting good People Analytics."
+    text-de: "Keynote beim SHIFT/HR Innovation SUMMIT 2022: Gutes People Analytics erkennen."
+    links:
+      view: "https://web.archive.org/web/20230602093215/https://www.shifthr.de/mediathek/asset/gutes-people-analytics-erkennen.html"
+      download: "2022-04-07-news-report-shifthr-keynote.pdf"
+      presentation: "2022-04-07-presentation-people-analytics-erkennen.pdf"
+      english: "2022-04-07-presentation-spot-people-analytics-eng.pdf"
+
+
+- section: "2020"
+  items:
+  - text: "Honorary lecture at Hochschule Fresenius Köln: Data Economy: An Introduction."
+    text-de: "Honorarvorlesung bei der Hochschule Fresenius Köln: Datenökonomie: Eine Einführung."
+
+
+- section: "2019"
+  items:
+  - text: "Press coverage in Heise Telepolis: „Überwachungskapitalismus und Wissenschaftssteuerung“ (Ulrich Herb, 29th July 2019)."
+    text-de: "Presseerwähnung in Heise Telepolis: „Überwachungskapitalismus und Wissenschaftssteuerung“ (Ulrich Herb, 29. Juli 2019)."
+    links:
+      view: "https://web.archive.org/web/20230927104042/https://www.telepolis.de/features/Ueberwachungskapitalismus-und-Wissenschaftssteuerung-4480357.html"
+      download: "2019-07-29-news-report-telepolis-ueberwachungskapitalismus.pdf"
+
+  - text: "Press coverage in Wissen.Leben: „Keine personalisierten Preise im Online-Handel“ (13:8, December 2019)."
+    text-de: "Presseerwähnung in Wissen.Leben: „Keine personalisierten Preise im Online-Handel“ (13:8, Dezember 2019)."
+    links:
+      view: "https://www.uni-muenster.de/news/view.php?cmdid=10718"
+      download: "2019-12-01-wl_12_2019.pdf"
+
+  - text: "Press coverage in Süddeutsche Zeitung: „Online-Handel: Die Macht der Kunden“ (Janis Beenen, 30th May 2019)."
+    text-de: "Presseerwähnung in Süddeutsche Zeitung: „Online-Handel: Die Macht der Kunden“ (Janis Beenen, 30. Mai 2019)."
+    links:
+      view: "https://web.archive.org/web/20230330215945/https://www.sueddeutsche.de/wirtschaft/online-handel-die-macht-der-kunden-1.4468120"
+      download: "2019-05-30-news-report-online-handel-macht-der-kunden-SZ.pdf"
+
+
+- section: "2017"
+  items:
+  - text: "Runner-up best information systems master thesis award."
+    text-de: "Runner-up beste Masterarbeit des Fachs Information Systems."
