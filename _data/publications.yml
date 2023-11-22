@@ -118,39 +118,39 @@
 
   - text: "Badmaeva, T., &amp; Hüllmann, J. A. (2019). Investigating Personalized Price Discrimination of Textile-, Electronics- and General Stores in German Online Retail. In Proceedings of the 14th International Conference on Wirtschaftsinformatik (WI), Siegen, Germany."
     links:
-      - download: "2019-01-16-preprint-badmaeva-huellmann-price-discrimination-germany.pdf"
-      - view: "https://aisel.aisnet.org/wi2019/specialtrack01/papers/1/"
-      - presentation: "2019-02-27-presentation-price-discrimination.pdf"
-      - code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/pd-thesis-public"
+      download: "2019-01-16-preprint-badmaeva-huellmann-price-discrimination-germany.pdf"
+      view: "https://aisel.aisnet.org/wi2019/specialtrack01/papers/1/"
+      presentation: "2019-02-27-presentation-price-discrimination.pdf"
+      code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/pd-thesis-public"
 
 - section: "2018"
   papers:
   - text: "Hüllmann, J. A. (2018). Editorial: Crafting Work 2018. In Joschka's unpublished works."
     links:
-      - download: "2018-12-18-outline-craft-joschi-2018-redact-update2020.pdf"
+      download: "2018-12-18-outline-craft-joschi-2018-redact-update2020.pdf"
 
   - text: "Hüllmann, J. A. (2018). About Writing and Journals. Satura, 1(1)."
     links:
-      - download: "2019-02-13-huellmann-about-writing-and-journals.pdf"
+      download: "2019-02-13-huellmann-about-writing-and-journals.pdf"
 
   - text: "Hüllmann, J. A. (2018). A Network Perspective on Collective Media Choice. NITIM 2018 Doctoral Consortium."
     links:
-      - download: "2020-09-28-draft-nitim-proposal-revised.pdf"
+      download: "2020-09-28-draft-nitim-proposal-revised.pdf"
 
   - text: "Hüllmann, J. A., &amp; Kroll, T. (2018). The Impact of User Behaviours on the Socialisation Process in Enterprise Social Networks. In Proceedings of the 29th Australasian Conference on Information Systems (ACIS), Sydney, Australia."
     links:
-      - download: "2018-10-18-huellmann-kroll-user-behaviour-socialisation-esn.pdf"
-      - presentation: "2018-11-30-presentation-socialisation.pdf"
-      - code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/esn-onboarding-public"
+      download: "2018-10-18-huellmann-kroll-user-behaviour-socialisation-esn.pdf"
+      presentation: "2018-11-30-presentation-socialisation.pdf"
+      code: "https://wiwi-gitlab.uni-muenster.de/j_huel12/esn-onboarding-public"
 
   - text: "Klein, S., &amp; Hüllmann, J. A. (2018). Datenkapitalismus akademischer Wissenschaftsverlage. Wirtschaftsdienst, 98(7), 477–480."
     links:
-      - download: "2018-07-05-datankapitalismus.pdf"
-      - view: "https://rdcu.be/2YNM"
+      download: "2018-07-05-datankapitalismus.pdf"
+      view: "https://rdcu.be/2YNM"
 
 - section: "2017"
   papers:
-  - text: "Hüllmann, J. A. (2017). Measurement of Social Capital in Enterprise Social Networks: Identification and Visualisation of Group Metrics. Master thesis at University of Münster. <b>Runner-up for best thesis award</b>."
+  - text: "Hüllmann, J. A. (2017). Measurement of Social Capital in Enterprise Social Networks: Identification and Visualisation of Group Metrics. Master thesis at University of Münster. <b>*Runner-up for best thesis award*</b>."
     links:
-      - download: "2017-03-02-final.pdf"
-      - presentation: "2017-03-02-presentation.pdf"
+      download: "2017-03-02-final.pdf"
+      presentation: "2017-03-02-presentation.pdf"
