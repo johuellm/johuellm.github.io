@@ -1,18 +1,18 @@
 - section: "Working Papers"
   papers:
-  - text: "Hüllmann, J. A., Grisold T., &amp; vom Brocke, J. (<i>seeking collaborators</i>). Social Process Science: Process Theorizing from Digital Traces and Qualitative Data (working title)."
-
   - text: "Hüllmann, J. A. (<i>seeking collaborators</i>). Beyond the Formal: Drivers of Informal Communication in Enterprise Social Networks."
 
-  - text: "Hüllmann, J. A. (<i>seeking collaborators</i>). ExplainableAI for Human-AI Joint Decision-Making in Farming Practice (working title)."
+  - texr: "Hüllmann, J. A., & Weritz, P. (2024). Strategic and Operational People Analytics: Reviewing the Dominant Conceptions in Academia and Practice."
+
+  - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., & Thomas, O. (2024). Servitization in Automotive: The Digital Transformation of Selling Product-service Systems at a Large German Car Manufacturer."
 
 - section: "2024"
   papers:
-    - text: "Lansmann, S., Mattern, J., Krebber, S., & Hüllmann, J. A. (2024). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People (in press)."
-      links:
-        view: "https://www.emerald.com/insight/content/doi/10.1108/ITP-05-2022-0399/full/html"
-        download: "2023-11-22-author-copy-TheFutureofWorkingfromHome.pdf"
-      featured: true
+  - text: "Lansmann, S., Mattern, J., Krebber, S., & Hüllmann, J. A. (2024). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People (in press)."
+    links:
+      view: "https://www.emerald.com/insight/content/doi/10.1108/ITP-05-2022-0399/full/html"
+      download: "2023-11-22-author-copy-TheFutureofWorkingfromHome.pdf"
+    featured: true
 
 - section: "2023"
   papers:

@@ -1,5 +1,8 @@
 - section: "2024"
   items:
+  - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on Future of Work in the Age of AI, Cloppenburg, Germany (24th September 2024)."
+    text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Cloppenburg, Deutschland (24. September 2024)."
+
   - text: "Keynote at the d.velop Summit 2024 on Future of Work in the Age of AI, Düsseldorf, Germany (12th June 2024)."
     text-de: "Keynote auf der d.velop Summit 2024 zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Düsseldorf, Deutschland (12. Juni 2024)."
     links:
@@ -12,6 +15,19 @@
       download: "2024-04-10-presentation-new-work-ki.pdf"
     featured: true
 
+  - text: "Press coverage in Universteit Twente News: „Large research grant for reducing distance to labour market for people with disability” (Kees Wesslink-Schram, 04th March 2024)."
+    text-de: "Presseerwähnung in den Nachrichten der Universtät Twente: „Large research grant for re-ducing distance to labour market for people with disability” (Kees Wesslink-Schram, 04. März 2024)."
+    links:
+      view: "https://www.utwente.nl/en/news/2024/3/1389170/large-research-grant-for-reducing-distance-to-labour-market-for-people-with-disability"
+      download: "2024-03-04-large-research-grant-labour-market-distance.pdf"
+
+  - text: "Press coverage in nwo.nl: “Three projects within KIC call 'Participating in the labour market' to start” (14th February 2024)."
+    text-de: "Presseerwähnung in nwo.nl: “Three projects within KIC call 'Participating in the labour market' to start” (14. Februar 2024)."
+    links:
+      view: "https://www.nwo.nl/en/news/three-projects-within-kic-call-participating-in-the-labour-market-to-start"
+      download: "2024-02-14-three-projects-within-KIC-call-NWO.pdf"
+
+
 - section: "2023"
   items:
   - text: "Keynote at the TechLabs e.V. Speaker Event on Future of Work in the Age of AI, Münster, Germany (23rd November 2023)."
@@ -23,6 +39,24 @@
     text-de: "Keynote auf den Industrie Digital 2023 Event zu KI für die Industrie. Organisiert von Niedersachsen Metall und dem Ministerium für Wirtschaft, Verkehr, Bauen und Digitalisierung (16. November 2023)."
     links:
       view: "https://niedersachsenmetall.de/veranstaltungen/industrie-digital-2023"
+
+  - text: "Press coverage in Dinalog.nl: “ UT-onderzoekers maken transportketens betrouwbaarder met ‘digital twin’” (06th November 2023)."
+    text-de: "Presseerwähnung in Dinalog.nl: “UT-onderzoekers maken transportketens betrouwbaarder met ‘digital twin’” (06. November 2023)."
+    links:
+      view: "https://www.dinalog.nl/ut-onderzoekers-maken-transportketens-betrouwbaarder-met-digital-twin/"
+      download: "2023-11-06-dinalog-news-twente-digital-twin.pdf"
+
+  - text: "Press coverage in MyScience.org: “Twente researchers make transport chains more re-liable using a 'digital twin'“(19th October 2023)."
+    text-de: "Presseerwähnung in MyScience.org: “Twente researchers make transport chains more relia-ble using a 'digital twin'“(19. Oktober 2023)."
+    links:
+      view: "https://www.myscience.org/news/wire/twente_researchers_make_transport_chains_more_reliable_using_a_digital_twin-2023-utwente"
+      download: "2023-10-19-myscience-twente-digital-twin.pdf"
+
+  - text: "Press coverage in Universiteit Twente News: “Twente researchers make transport chains more reliable using a 'digital twin'“(Jochem Vreeman, 19th October 2023)."
+    text-de: "Presseerwähnung in Universität Twente News: “Twente researchers make transport chains more reliable using a 'digital twin'“(Jochem Vreeman, 19. Oktober 2023)."
+    links:
+      view: "https://www.utwente.nl/en/news/2023/10/1194213/twente-researchers-make-transport-chains-more-reliable-using-a-digital-twin"
+      download: "2023-11-06-dinalog-news-twente-digital-twin.pdf"
 
   - text: "Winner of the “Mentoren Award” for the technologically most sophisticated solution at the Münster-hack 2023 (#MSHACK23) with team OpenTags."
     text-de: "Gewinner des “Mentoren Preis” für die technisch anspruchsvollste Lösung auf dem Münster-hack 2023 (#MSHACK23) mit dem Team OpenTags."
@@ -37,8 +71,8 @@
       download: "2023-06-16-image-best-AE-award-ECIS-2023.pdf"
     featured: true
 
-  - text: "Keynote at the CES Workshop on Hybrid Work, Enschede, Netherlands, 2023."
-    text-de: "Keynote auf dem CES Workshop zu Hybrid Work, Enschede, Niederlande, 2023."
+  - text: "Keynote at the CES Workshop on Hybrid Work, Enschede, Netherlands (23rd May 2023)."
+    text-de: "Keynote auf dem CES Workshop zu Hybrid Work, Enschede, Niederlande (23. Mai 2023)."
     links:
       view: "https://www.utwente.nl/en/ces/ces-newsletter/news-ces-newsletter/2023/3/556794/succes-cafe-balances-issue-no4-2023/"
       download: "2023-03-29-news-report-SucCES café BalanCES - Issue no4 _ 2023.pdf"
@@ -57,8 +91,8 @@
 
 - section: "2022"
   items:
-  - text: "Keynote at People Analytics in Practice 2022 of the Alexander von Humboldt Institute for Internet and Society."
-    text-de: "Keynote auf dem Workshop: People Analytics in der Praxis 2022 des Alexander von Humboldt Instituts für Internet und Gesellschaft."
+  - text: "Keynote at People Analytics in Practice 2022 of the Alexander von Humboldt Institute for Internet and Society (19th October 2022)."
+    text-de: "Keynote auf dem Workshop: People Analytics in der Praxis 2022 des Alexander von Humboldt Instituts für Internet und Gesellschaft (19. Oktober 2022)."
     links:
       view: "https://www.hiig.de/events/workshop-people-analytics-in-der-betrieblichen-praxis/"
       download: "2022-04-07-news-report-hiig.pdf"
@@ -86,13 +120,13 @@
     links:
       view: "https://bledconference.org/outstanding-reviewer-award/"
 
-  - text: "Lecture and Workshop at Kaufleute und Ingenieur Netzwerk Deutschland 2022: Benefits & Risks of People Analytics."
-    text-de: "Vortrag und Workshop bei Kaufleute und Ingenieur Netzwerk Deutschland 2022: Vor- und Nachteile bei der Anwendung von People Analytics."
+  - text: "Keynote at Kaufleute und Ingenieur Netzwerk Deutschland 2022: Benefits & Risks of People Analytics (16th May 2022)."
+    text-de: "Vortrag und Workshop bei Kaufleute und Ingenieur Netzwerk Deutschland 2022: Vor- und Nachteile bei der Anwendung von People Analytics (16. Mai 2022)."
     links:
       presentation: "2022-04-07-presentation-people-analytics-erkennen.pdf"
 
-  - text: "Keynote at SHIFT/HR Innovation SUMMIT 2022: Spotting good People Analytics."
-    text-de: "Keynote beim SHIFT/HR Innovation SUMMIT 2022: Gutes People Analytics erkennen."
+  - text: "Keynote at SHIFT/HR Innovation SUMMIT 2022: Spotting good People Analytics (07th April 2022)."
+    text-de: "Keynote beim SHIFT/HR Innovation SUMMIT 2022: Gutes People Analytics erkennen (07. April 2022)."
     links:
       view: "https://web.archive.org/web/20230602093215/https://www.shifthr.de/mediathek/asset/gutes-people-analytics-erkennen.html"
       download: "2022-04-07-news-report-shifthr-keynote.pdf"
