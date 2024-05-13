@@ -1,5 +1,11 @@
 - section: "2024"
   items:
+  - text: "Outstanding SIG Award 2023 of the Association for Information Systems (07th May 2024)."
+    text-de: "Outstanding SIG Award 2023 der Association for Information Systems (07. Mai 2024)."
+    links:
+      view: "https://certificate.aisnet.org/verify/f4f5249e15654"
+    featured: true
+
   - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on Future of Work in the Age of AI, Cloppenburg, Germany (24th September 2024)."
     text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Cloppenburg, Deutschland (24. September 2024)."
 
@@ -69,7 +75,6 @@
     links:
       view: "https://web.archive.org/web/20230616172512/https://ecis2023.no/submissions/best-aes-reviewers/"
       download: "2023-06-16-image-best-AE-award-ECIS-2023.pdf"
-    featured: true
 
   - text: "Keynote at the CES Workshop on Hybrid Work, Enschede, Netherlands (23rd May 2023)."
     text-de: "Keynote auf dem CES Workshop zu Hybrid Work, Enschede, Niederlande (23. Mai 2023)."
