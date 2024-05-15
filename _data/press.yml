@@ -1,11 +1,5 @@
 - section: "2024"
   items:
-  - text: "Outstanding SIG Award 2023 of the Association for Information Systems (07th May 2024)."
-    text-de: "Outstanding SIG Award 2023 der Association for Information Systems (07. Mai 2024)."
-    links:
-      view: "https://certificate.aisnet.org/verify/f4f5249e15654"
-    featured: true
-
   - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on Future of Work in the Age of AI, Cloppenburg, Germany (24th September 2024)."
     text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Cloppenburg, Deutschland (24. September 2024)."
 
@@ -13,6 +7,12 @@
     text-de: "Keynote auf der d.velop Summit 2024 zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Düsseldorf, Deutschland (12. Juni 2024)."
     links:
       view: "https://summit.d-velop.de/"
+    featured: true
+
+  - text: "Outstanding SIG Award 2023 of the Association for Information Systems (07th May 2024)."
+    text-de: "Outstanding SIG Award 2023 der Association for Information Systems (07. Mai 2024)."
+    links:
+      view: "https://certificate.aisnet.org/verify/f4f5249e15654"
     featured: true
 
   - text: "Keynote at the New Work Pioneer Lab by noventum Consulting GmbH on Future of Work in the Age of AI, Münster, Germany (10th April 2024)."
@@ -46,7 +46,7 @@
     links:
       view: "https://niedersachsenmetall.de/veranstaltungen/industrie-digital-2023"
 
-  - text: "Press coverage in Dinalog.nl: “ UT-onderzoekers maken transportketens betrouwbaarder met ‘digital twin’” (06th November 2023)."
+  - text: "Press coverage in Dinalog.nl: “UT-onderzoekers maken transportketens betrouwbaarder met ‘digital twin’” (06th November 2023)."
     text-de: "Presseerwähnung in Dinalog.nl: “UT-onderzoekers maken transportketens betrouwbaarder met ‘digital twin’” (06. November 2023)."
     links:
       view: "https://www.dinalog.nl/ut-onderzoekers-maken-transportketens-betrouwbaarder-met-digital-twin/"
