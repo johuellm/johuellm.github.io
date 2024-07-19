@@ -1,11 +1,22 @@
 - section: "2024"
   items:
-  - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on Future of Work in the Age of AI, Cloppenburg, Germany (24th September 2024)."
-    text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Cloppenburg, Deutschland (24. September 2024)."
+  - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on “Future of Work in the Age of AI”, Cloppenburg, Germany (24th September 2024)."
+    text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu „Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz”, Cloppenburg, Deutschland (24. September 2024)."
+
+  - text: "Press coverage in d-velop.de/blog: “Future of Work: How AI changes the Nature of Work” (Dominik Schiller, 16th July 2024)."
+    text-de: "Presseerwähnung in dem d-velop.de/blog: „Future of Work: Wie KI die Zukunft der Arbeit beeinflusst” (Dominik Schiller, 16. Juli 2024)."
+    links:
+      view: "https://www.d-velop.de/blog/digitaler-wandel/future-of-work/"
+      download: "2024-07-16-blog-artikel-future-work-dvelop.pdf"
     featured: true
 
-  - text: "Keynote at the d.velop Summit 2024 on Future of Work in the Age of AI, Düsseldorf, Germany (12th June 2024)."
-    text-de: "Keynote auf der d.velop Summit 2024 zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Düsseldorf, Deutschland (12. Juni 2024)."
+  - text: "Press coverage in Netzpalaver.de: “Digitalisierungs-Festival von d.velop begeisterte 2.000 Teilnehmende” (21st June 2024)."
+    text-de: "Presseerwähnung in Netzpalaver.de: „Digitalisierungs-Festival von d.velop begeisterte 2.000 Teilnehmende” (21. Juni 2024)."
+    links:
+      view: "https://netzpalaver.de/2024/06/21/digitalisierungs-festival-von-d-velop-begeisterte-2-000-teilnehmende/"
+
+  - text: "Keynote at the d.velop Summit 2024 on “Future of Work in the Age of AI”, Düsseldorf, Germany (12th June 2024)."
+    text-de: "Keynote auf der d.velop Summit 2024 zu „Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz”, Düsseldorf, Deutschland (12. Juni 2024)."
     links:
       view: "https://summit.d-velop.de/"
       download: "2024-06-12-presentation-dvelop-summit.pdf"
