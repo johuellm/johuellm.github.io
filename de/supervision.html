@@ -1,0 +1,56 @@
+---
+layout: base
+title: Supervision
+description: Joschka Hüllmann betreut Bachelor, Master, und Praktikumsarbeiten zum Thema “Smarter Work”.
+language: de
+---
+  <!-- ======= Navbar ======= -->
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="/" class="nav-link scrollto"><i class="bx bx-arrow-back"></i> <span>Zurück</span></a></li>
+          <li><a href="#breadcrumbs" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#supervision" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Betreuung</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Betreuung</h2>
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li>Betreuung</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <section id="supervision" class="supervision">
+      <div class="container">
+
+        <div class="section-title">
+
+          <div class="alert alert-danger" role="alert">
+            Diese Unterseite ist nur auf Englisch verfügbar, da Sie nur meine internationalen Studierenden an der Universität Twente betrifft.
+            Die Unterseite ist aktuell unvollständig und wird über die Sommerpause aktualisiert.
+          </div>
+
+          <h2>Betreuung</h2>
+          <p>Auf dieser Website finden Sie Informationen über meine Bachelor-, Master- und Praktikumsbetreuung an der Universtität Twente</p>
+
+          {% capture my_include %}{% include supervision.md %}{% endcapture %}
+          {{ my_include | markdownify }}
+
+        </div>
+
+      </div>
+    </section><!-- End Supervision Section -->
+
+  </main><!-- End #main -->
