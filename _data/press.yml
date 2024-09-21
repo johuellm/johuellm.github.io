@@ -1,14 +1,29 @@
 - section: "2024"
   items:
+  - text: "Keynote at the Cross-Border Symposium on Smart Farming Innovations on “AI adoption and use in agriculture”, Twente, Netherlands (2nd October 2024)."
+    text-de: "Keynote auf dem Cross-Border Symposium on Smart Farming Innovations zu „KI Adoption und Nutzung in der Landwirtschaft”, Twente, Netherlands (2. Oktober 2024)."
+
+  - text: "Keynote at the final workshop of the ZAUber project - between autonomy and surveillance  on “People Analytics: Findings from Research”, Karlsruhe, Germany (30th September 2024)."
+    text-de: "Keynote auf dem Abschlussworkshop des Projekts ZAUber – Zwischen Autonomie und Überwachung zu „People Analytics: Neues aus der Wissenschaft”, Karlsruhe, Deutschland (30. September 2024)."
+
   - text: "Keynote at the Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI on “Future of Work in the Age of AI”, Cloppenburg, Germany (24th September 2024)."
     text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu „Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz”, Cloppenburg, Deutschland (24. September 2024)."
+    links:
+      download: "2024-09-24-presentation-joschka-huellmann-KI-arbeit-im-wandel.pdf"
+    featured: true
+
+  - text: "Press coverage in nc360° - das Magazin für digitale Optimisten: “Between Purpose und Performance ‘New Work is what I really want to drive forward in the company.’” (Marc Schwellenbach, 22nd July 2024)."
+    text-de: "Presseerwähnung in nc360° - das Magazin für digitale Optimisten: „Zwischen Purpose und Performance: ‘New Work ist das, was ich wirklich im Unternehmen vorantreiben möchte.’” (Marc Schwellenbach, 22. Juli 2024)."
+    links:
+      view: "https://www.noventum.de/en/people-culture/nc360-article/between-purpose-und-performance.html"
+      download: "2024-07-22-marc-schwellbach-nc360-between-purpose-performance.pdf"
+    featured: true
 
   - text: "Press coverage in d-velop.de/blog: “Future of Work: How AI changes the Nature of Work” (Dominik Schiller, 16th July 2024)."
     text-de: "Presseerwähnung in dem d-velop.de/blog: „Future of Work: Wie KI die Zukunft der Arbeit beeinflusst” (Dominik Schiller, 16. Juli 2024)."
     links:
       view: "https://www.d-velop.de/blog/digitaler-wandel/future-of-work/"
       download: "2024-07-16-blog-artikel-future-work-dvelop.pdf"
-    featured: true
 
   - text: "Press coverage in Netzpalaver.de: “Digitalisierungs-Festival von d.velop begeisterte 2.000 Teilnehmende” (21st June 2024)."
     text-de: "Presseerwähnung in Netzpalaver.de: „Digitalisierungs-Festival von d.velop begeisterte 2.000 Teilnehmende” (21. Juni 2024)."
@@ -26,7 +41,6 @@
     text-de: "Outstanding SIG Award 2023 der Association for Information Systems (07. Mai 2024)."
     links:
       view: "https://certificate.aisnet.org/verify/f4f5249e15654"
-    featured: true
 
   - text: "Keynote at the New Work Pioneer Lab by noventum Consulting GmbH on Future of Work in the Age of AI, Münster, Germany (10th April 2024)."
     text-de: "Keynote bei dem New Work Pioneer Lab der noventum Consulting GmbH zu Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz, Münster, Deutschland (10. April 2024)."
