@@ -1,13 +1,23 @@
 - section: "2024"
   items:
-  - text: "Press coverage in NiederlandeNachrichten.de: “German-Dutch cooperation drives the agriculture of the future” (2. Oktober 2024)."
-    text-de: "Presseerwähnung in NiederlandeNachrichten.de: „Deutsch-niederländische Zusammenarbeit treibt die Landwirtschaft der Zukunft voran” (2nd October 2024)."
+  - text: "Most read paper of the year at Information Systems Management for: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31st December 2024)."
+    text-de: "Das am meisten gelesene Papier des Jahres der Zeitschrift Information Systems Management für: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31. Dezember 2024)."
+    links:
+      view: "https://www.tandfonline.com/action/showMostReadArticles?journalCode=uism20"
+
+  - text: "Organizer and Chair of the Research-Practice-Transfer Workshop: “Digital Transformation & Work” with Westfalen AG, Münster (15th November 2024)."
+    text-de: "Organisator und Chair des Forschung-Praxis-Transfer Workshops: “Digitale Transformation & Arbeit” mit der Westfalen AG, Münster (15. November 2024)."
+    links:
+      download: "2024-11-15-draft-programminfo.pdf"
+
+  - text: "Press coverage in NiederlandeNachrichten.de: “German-Dutch cooperation drives the agriculture of the future” (2nd October 2024)."
+    text-de: "Presseerwähnung in NiederlandeNachrichten.de: „Deutsch-niederländische Zusammenarbeit treibt die Landwirtschaft der Zukunft voran” (2. Oktober 2024)."
     links: 
       view: "https://niederlandenachrichten.de/fachartikel/deutsch-niederlandische-zusammenarbeit-treibt-die-landwirtschaft-der-zukunft-voran/"
       download: "2024-10-02-agriculture-future-smart-border-symposium-niederlandenachrichten.pdf"
 
   - text: "Keynote at the Cross-Border Symposium on Smart Farming Innovations on “AI adoption and use in agriculture”, Twente, Netherlands (2nd October 2024)."
-    text-de: "Keynote auf dem Cross-Border Symposium on Smart Farming Innovations zu „KI Adoption und Nutzung in der Landwirtschaft”, Twente, Netherlands (2. Oktober 2024)."
+    text-de: "Keynote auf dem Cross-Border Symposium on Smart Farming Innovations zu „KI Adoption und Nutzung in der Landwirtschaft”, Twente, Die Niederlande (2. Oktober 2024)."
 
   - text: "Keynote at the final workshop of the ZAUber project - between autonomy and surveillance  on “People Analytics: Findings from Research”, Karlsruhe, Germany (30th September 2024)."
     text-de: "Keynote auf dem Abschlussworkshop des Projekts ZAUber – Zwischen Autonomie und Überwachung zu „People Analytics: Neues aus der Wissenschaft”, Karlsruhe, Deutschland (30. September 2024)."
@@ -30,8 +40,8 @@
       view: "https://www.om-online.de/wirtschaft/ganz-praktisch-was-bringen-meiner-firma-ki-modelle-592318"
       download: "2024-09-19-MT-was-bringen-meiner-Firma-KI-Modelle.pdf"
 
-  - text: "Press coverage in Oldenburger Münsterland: “Event tip: Data innovations in practice - from data preparation to AI” (24. August 2024)."
-    text-de: "Presseerwähnung in Oldenburger Münsterland: „Veranstaltungstipp: Dateninnovationen in der Praxis – Von der Datenaufbereitung bis zur KI” (24th August 2024)."
+  - text: "Press coverage in Oldenburger Münsterland: “Event tip: Data innovations in practice - from data preparation to AI” (24th August 2024)."
+    text-de: "Presseerwähnung in Oldenburger Münsterland: „Veranstaltungstipp: Dateninnovationen in der Praxis – Von der Datenaufbereitung bis zur KI” (24. August 2024)."
     links: 
       view: "https://www.oldenburger-muensterland.de/veranstaltungstipp-dateninnovationen-in-der-praxis-%E2%80%93-von-der/240121"
       download: "2024-08-24-dateninnovation-oldenburger-muensterland.pdf"
