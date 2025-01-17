@@ -6,6 +6,13 @@
 
   - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2024). Servitization in Automotive: The Digital Transformation of Selling Product-service Systems at a Large German Car Manufacturer."
 
+- section: "2025"
+  papers:
+  - text: "Hüllmann, J. A. (2025). Digital Traces as Measurement Instruments for Variance-Theoretic Re-search in Information Systems. In Wurm, B., & Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
+    links:
+      view: "https://tracedata.ai.wu.ac.at/accepted-chapters/"
+    featured: true
+
 - section: "2024"
   papers:
   - text: "Hüllmann, J. A., Gollhardt, T., Hermann, A., &amp; Kruse, P. (2024). Data Innovation Explorer: Design of a Data-Driven Business Model Tool. In Proceedings of the 37th Bled eConference, Bled, Slovenia."
@@ -30,7 +37,6 @@
   - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2023). Servitization in Automotive: The Digital Transformation of Selling Product-Service Systems at a Large German Car Manufacturer. In Proceedings of the 31st European Conference on Information Systems (ECIS), Kristiansand, Norway."
     links:
       download: "2023-03-29-ECIS-2023-Template-RinP-v13.pdf"
-    featured: true
 
   - text: "Hüllmann, J. A., Precht, H., &amp; Wübbe, C. (2023). Configurations of Human-AI Work in Agriculture: Adoption and Use of Intelligent Systems by Agricultural Workers. In Proceedings of the GIL-Jahrestagung 2023, Osnabrück, Germany."
     links:
