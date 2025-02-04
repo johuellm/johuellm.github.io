@@ -1,4 +1,4 @@
-- section: "2024"
+- section: "2025"
   items:
   - text: "Keynote at the AMCON GmbH Customer Days on “Designing Artificial Intelligence & Digital Work: A roadmap to the future of work”, Cloppenburg, Germany (7th February 2025)."
     text-de: "Keynote auf den AMCON GmbH Kundentagen zu „Künstliche Intelligenz & Digitale Arbeit gestalten: Ein Fahrplan zur Arbeit der Zukunft”, Cloppenburg, Deutschland (7. Februar 2025)."
@@ -6,6 +6,9 @@
       download: "2025-02-01-presentation-amcon.pdf"
     featured: true
 
+
+- section: "2024"
+  items:
   - text: "Most read paper of the year at Information Systems Management for: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31st December 2024)."
     text-de: "Das am meisten gelesene Papier des Jahres der Zeitschrift Information Systems Management für: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31. Dezember 2024)."
     links:
