@@ -1,12 +1,18 @@
 - section: "2024"
   items:
+  - text: "Keynote at the AMCON GmbH Customer Days on “Designing Artificial Intelligence & Digital Work: A roadmap to the future of work”, Cloppenburg, Germany (7th February 2025)."
+    text-de: "Keynote auf den AMCON GmbH Kundentagen zu „Künstliche Intelligenz & Digitale Arbeit gestalten: Ein Fahrplan zur Arbeit der Zukunft”, Cloppenburg, Deutschland (7. Februar 2025)."
+    links:
+      download: "2025-02-01-presentation-amcon.pdf"
+    featured: true
+
   - text: "Most read paper of the year at Information Systems Management for: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31st December 2024)."
     text-de: "Das am meisten gelesene Papier des Jahres der Zeitschrift Information Systems Management für: “Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions” (31. Dezember 2024)."
     links:
       view: "https://www.tandfonline.com/action/showMostReadArticles?journalCode=uism20"
 
   - text: "Organizer and Chair of the Research-Practice-Transfer Workshop: “Digital Transformation & Work” with Westfalen AG, Münster (15th November 2024)."
-    text-de: "Organisator und Chair des Forschung-Praxis-Transfer Workshops: “Digitale Transformation & Arbeit” mit der Westfalen AG, Münster (15. November 2024)."
+    text-de: "Organisator und Chair des Forschung-Praxis-Transfer Workshops: „Digitale Transformation & Arbeit” mit der Westfalen AG, Münster (15. November 2024)."
     links:
       download: "2024-11-15-draft-programminfo.pdf"
 
@@ -69,7 +75,6 @@
     links:
       view: "https://summit.d-velop.de/"
       download: "2024-06-12-presentation-dvelop-summit.pdf"
-    featured: true
 
   - text: "Outstanding SIG Award 2023 of the Association for Information Systems (07th May 2024)."
     text-de: "Outstanding SIG Award 2023 der Association for Information Systems (07. Mai 2024)."
