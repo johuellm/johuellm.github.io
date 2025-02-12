@@ -30,7 +30,7 @@ Furthermore, I am open to you suggesting a topic in one of the following areas:
 - Information Technology, Digital Innovation, and AI in Agriculture, Farming, Manufacturing,
 - People Analytics,
 - Enterprise Communication and Collaboration Media, Virtual, Hybrid, Digital Work,
-- Data Science eSports.
+- Data Science in eSports.
 
 Research questions typically...:
 - address organizational or individual antecedents, consequences, or mechanisms of using IT at work,
