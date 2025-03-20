@@ -13,6 +13,12 @@
       view: "https://tracedata.ai.wu.ac.at/accepted-chapters/"
     featured: true
 
+  - text: "Lansmann, S., Mattern, J., Krebber, S., &amp; Hüllmann, J. A. (2025). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People, 38(2), 626–659."
+    links:
+      view: "https://www.emerald.com/insight/content/doi/10.1108/ITP-05-2022-0399/full/html"
+      download: "2023-11-22-author-copy-TheFutureofWorkingfromHome.pdf"
+    featured: true
+
 - section: "2024"
   papers:
   - text: "Hüllmann, J. A., Gollhardt, T., Hermann, A., &amp; Kruse, P. (2024). Data Innovation Explorer: Design of a Data-Driven Business Model Tool. In Proceedings of the 37th Bled eConference, Bled, Slovenia."
@@ -24,12 +30,6 @@
     links:
       view: "https://www.tandfonline.com/doi/abs/10.1080/10580530.2024.2349886"
       download: "2024-05-13-draft-v10-camera-ready-with-doi.pdf"
-    featured: true
-
-  - text: "Lansmann, S., Mattern, J., Krebber, S., &amp; Hüllmann, J. A. (2024). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People (in press)."
-    links:
-      view: "https://www.emerald.com/insight/content/doi/10.1108/ITP-05-2022-0399/full/html"
-      download: "2023-11-22-author-copy-TheFutureofWorkingfromHome.pdf"
     featured: true
 
 - section: "2023"
