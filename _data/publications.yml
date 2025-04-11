@@ -1,13 +1,13 @@
 - section: "Working Papers"
   papers:
-  - text: "Hüllmann, J. A. (<i>seeking collaborators</i>). Beyond the Formal: Drivers of Informal Communication in Enterprise Social Networks."
-
-  - text: "Hüllmann, J. A., &amp; Weritz, P. (2024). Strategic and Operational People Analytics: Reviewing the Dominant Conceptions in Academia and Practice."
-
   - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2024). Servitization in Automotive: The Digital Transformation of Selling Product-service Systems at a Large German Car Manufacturer."
 
 - section: "2025"
   papers:
+  - text: "Guizzardi, R., Piest, S., Agrawal, A., Akyazi, A., Ariji, A., Tao, T., Scheijgrond, A.-R., Hüllmann, J. A., & Mes, M. R. K. (2025). Requirements Analysis of a Digital Twin to Support Resilience in an Inland Port. In Proceedings of the 3rd Workshop on the Modelling and Implementation of Digital Twins for Complex Systems (in conjunction with CaiSE 2025), Vienna, Austria."
+
+  - text: "Cheng, L., Hüllmann, J. A., Meijerink, J., & van Riemsdijk, B. (2025). Exploring an Integrated Theoretical Framework for Ontology-Based Job Matching Algorithms for Persons with Disabilities. In Proceedings of the 3rd EIASM Workshop on People Analytics & Algorithmic Management (PAAM), Enschede, The Netherlands."
+
   - text: "Hüllmann, J. A. (2025). Digital Traces as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., & Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
     links:
       view: "https://tracedata.ai.wu.ac.at/accepted-chapters/"
