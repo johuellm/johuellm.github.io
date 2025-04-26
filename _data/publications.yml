@@ -5,8 +5,12 @@
 - section: "2025"
   papers:
   - text: "Guizzardi, R., Piest, S., Agrawal, A., Akyazi, A., Ariji, A., Tao, T., Scheijgrond, A.-R., Hüllmann, J. A., & Mes, M. R. K. (2025). Requirements Analysis of a Digital Twin to Support Resilience in an Inland Port. In Proceedings of the 3rd Workshop on the Modelling and Implementation of Digital Twins for Complex Systems (in conjunction with CaiSE 2025), Vienna, Austria."
+    links:
+      download: "2025-04-17-Resilient_Corridors_Twin_Requirements_final.pdf"
 
   - text: "Cheng, L., Hüllmann, J. A., Meijerink, J., & van Riemsdijk, B. (2025). Exploring an Integrated Theoretical Framework for Ontology-Based Job Matching Algorithms for Persons with Disabilities. In Proceedings of the 3rd EIASM Workshop on People Analytics & Algorithmic Management (PAAM), Enschede, The Netherlands."
+    links:
+      download: "2025-03-13-PAAM2025_Abstract.pdf"
 
   - text: "Hüllmann, J. A. (2025). Digital Traces as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., & Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
     links:
