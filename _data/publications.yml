@@ -4,6 +4,8 @@
 
 - section: "2025"
   papers:
+  - text: "Meijerink, J., Schafheitle, S. D., Hüllmann, J. A., Renkema, M., van Riemsdijk, B., & Bondarouk, T. (2025). The promises and perils of online labor platforms for the sustainable inclusion of people with a disability. In Proceedings of the 41st EGOS Colloquium 2025, Athens, Greece."
+
   - text: "Guizzardi, R., Piest, S., Agrawal, A., Akyazi, A., Ariji, A., Tao, T., Scheijgrond, A.-R., Hüllmann, J. A., & Mes, M. R. K. (2025). Requirements Analysis of a Digital Twin to Support Resilience in an Inland Port. In Proceedings of the 3rd Workshop on the Modelling and Implementation of Digital Twins for Complex Systems (in conjunction with CaiSE 2025), Vienna, Austria."
     links:
       download: "2025-04-29-Resilient_Corridors_Twin_Requirements_final_v2.pdf"
