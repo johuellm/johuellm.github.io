@@ -4,18 +4,23 @@
 
 - section: "2025"
   papers:
-  - text: "Meijerink, J., Schafheitle, S. D., Hüllmann, J. A., Renkema, M., van Riemsdijk, B., & Bondarouk, T. (2025). The promises and perils of online labor platforms for the sustainable inclusion of people with a disability. In Proceedings of the 41st EGOS Colloquium 2025, Athens, Greece."
+  - text: "Raetze, S., Staedter, C. &amp; Hüllmann, J. A. (2025). Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda. Team Performance Management, ahead-of-print."
+    links:
+      view: "https://www.emerald.com/insight/content/doi/10.1108/tpm-09-2024-0109/full/html"
+      download: "2025-06-02-final-published-10-1108_tpm-09-2024-0109.pdf"
+    featured: true
 
-  - text: "Guizzardi, R., Piest, S., Agrawal, A., Akyazi, A., Ariji, A., Tao, T., Scheijgrond, A.-R., Hüllmann, J. A., & Mes, M. R. K. (2025). Requirements Analysis of a Digital Twin to Support Resilience in an Inland Port. In Proceedings of the 3rd Workshop on the Modelling and Implementation of Digital Twins for Complex Systems (in conjunction with CaiSE 2025), Vienna, Austria."
+  - text: "Meijerink, J., Schafheitle, S. D., Hüllmann, J. A., Renkema, M., van Riemsdijk, B., &amp; Bondarouk, T. (2025). The promises and perils of online labor platforms for the sustainable inclusion of people with a disability. In Proceedings of the 41st EGOS Colloquium 2025, Athens, Greece."
+
+  - text: "Guizzardi, R., Piest, S., Agrawal, A., Akyazi, A., Ariji, A., Tao, T., Scheijgrond, A.-R., Hüllmann, J. A., &amp; Mes, M. R. K. (2025). Requirements Analysis of a Digital Twin to Support Resilience in an Inland Port. In Proceedings of the 3rd Workshop on the Modelling and Implementation of Digital Twins for Complex Systems (in conjunction with CaiSE 2025), Vienna, Austria."
     links:
       download: "2025-04-29-Resilient_Corridors_Twin_Requirements_final_v2.pdf"
 
-  - text: "Cheng, L., Hüllmann, J. A., Meijerink, J., & van Riemsdijk, B. (2025). Exploring an Integrated Theoretical Framework for Ontology-Based Job Matching Algorithms for Persons with Disabilities. In Proceedings of the 3rd EIASM Workshop on People Analytics & Algorithmic Management (PAAM), Enschede, The Netherlands."
+  - text: "Cheng, L., Hüllmann, J. A., Meijerink, J., &amp; van Riemsdijk, B. (2025). Exploring an Integrated Theoretical Framework for Ontology-Based Job Matching Algorithms for Persons with Disabilities. In Proceedings of the 3rd EIASM Workshop on People Analytics &amp; Algorithmic Management (PAAM), Enschede, The Netherlands."
 
-  - text: "Hüllmann, J. A. (2025). Digital Traces as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., & Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
+  - text: "Hüllmann, J. A. (2025). Digital Traces as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., &amp; Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
     links:
       view: "https://tracedata.ai.wu.ac.at/accepted-chapters/"
-    featured: true
 
   - text: "Lansmann, S., Mattern, J., Krebber, S., &amp; Hüllmann, J. A. (2025). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People, 38(2), 626–659."
     links:
