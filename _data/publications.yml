@@ -4,7 +4,12 @@
 
 - section: "2025"
   papers:
-  - text: "Raetze, S., Staedter, C. &amp; Hüllmann, J. A. (2025). Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda. Team Performance Management, ahead-of-print."
+  - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2025). Paperless Everything: A Systematic Literature Review for the Design of Blockchain-based Document Management Systems. ACM Distributed Ledger Technologies (in press)."
+    links:
+      view: "https://dl.acm.org/doi/10.1145/3737296"
+    featured: true
+
+  - text: "Raetze, S., Staedter, C. &amp; Hüllmann, J. A. (2025). Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda. Team Performance Management (in press)."
     links:
       view: "https://www.emerald.com/insight/content/doi/10.1108/tpm-09-2024-0109/full/html"
       download: "2025-06-02-final-published-10-1108_tpm-09-2024-0109.pdf"
@@ -26,7 +31,6 @@
     links:
       view: "https://www.emerald.com/insight/content/doi/10.1108/ITP-05-2022-0399/full/html"
       download: "2023-11-22-author-copy-TheFutureofWorkingfromHome.pdf"
-    featured: true
 
   - text: "Hüllmann, J. A., Kimathi, K., &amp; Weritz, P. (2025). Large-Scale Agile Project Management in Safety-Critical Industries: A Case Study on Challenges and Solutions. Information Systems Management, 42(2), 138-160. <b>*most read paper*</b>"
     links:
