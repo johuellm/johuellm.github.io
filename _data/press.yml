@@ -1,5 +1,9 @@
 - section: "2025"
   items:
+  - text: "Best Reviewer Award at the European Conference on Information Systems (ECIS) 2025, Amman, Jordan."
+    text-de: "Best Reviewer Award auf der European Conference on Information Systems (ECIS) 2025, Amman, Jordanien."
+    featured: true
+
   - text: "Keynote at the AMCON GmbH Customer Days on “Designing Artificial Intelligence & Digital Work: A roadmap to the future of work”, Cloppenburg, Germany (7th February 2025)."
     text-de: "Keynote auf den AMCON GmbH Kundentagen zu „Künstliche Intelligenz & Digitale Arbeit gestalten: Ein Fahrplan zur Arbeit der Zukunft”, Cloppenburg, Deutschland (7. Februar 2025)."
     links:
@@ -60,7 +64,6 @@
     links:
       view: "https://www.noventum.de/en/people-culture/nc360-article/between-purpose-und-performance.html"
       download: "2024-07-22-marc-schwellbach-nc360-between-purpose-performance.pdf"
-    featured: true
 
   - text: "Press coverage in d-velop.de/blog: “Future of Work: How AI changes the Nature of Work” (Dominik Schiller, 16th July 2024)."
     text-de: "Presseerwähnung in dem d-velop.de/blog: „Future of Work: Wie KI die Zukunft der Arbeit beeinflusst” (Dominik Schiller, 16. Juli 2024)."
