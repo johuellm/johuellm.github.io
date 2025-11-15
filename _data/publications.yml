@@ -4,6 +4,11 @@
 
 - section: "2025"
   papers:
+  - text: "Hüllmann, J. A., Gierlich-Joas, M., &amp; Stein, M.-K. (2025). When Technology Becomes an Ideological Battleground: How Data Ideology affects Affordance Actualization in People Analytics. Journal of the Association for Information Systems (in press)."
+    links:
+      view: "https://aisel.aisnet.org/jais_preprints/213/"
+      download: "2025-11-15-technology-ideological-battleground-people-analytics-jais.pdf"
+
   - text: "Hüllmann, J. A., Schafheitle, S. D., &amp; Weritz, P. (2025). People Analytics am Scheideweg: Vier Thesen für eine nachhaltige Kurskorrektur. Schmalenbach IMPULSE, 5, 1–15."
     links:
       view: "https://schmalenbach-impulse.de/people-analytics-am-scheideweg-vier-thesen-fuer-eine-nachhaltige-kurskorrektur/"

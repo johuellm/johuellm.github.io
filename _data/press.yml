@@ -1,5 +1,9 @@
 - section: "2025"
   items:
+  - text: "Talk at the Viadee Seminar on “Graph Neural Networks for Predictions in Sports and Esports”, Velbert, Germany (22nd November 2025)."
+    text-de: "Vortrag auf dem Viadee Seminar zu „Graph Neural Networks für Vorhersagen im Sport und Esports”, Velbert, Deutschland (22. November 2025)."
+    featured: true
+
   - text: "Best Reviewer Award at the European Conference on Information Systems (ECIS) 2025, Amman, Jordan."
     text-de: "Best Reviewer Award auf der European Conference on Information Systems (ECIS) 2025, Amman, Jordanien."
     featured: true
@@ -30,7 +34,7 @@
       download: "2024-10-02-agriculture-future-smart-border-symposium-niederlandenachrichten.pdf"
 
   - text: "Keynote at the Cross-Border Symposium on Smart Farming Innovations on “AI adoption and use in agriculture”, Twente, Netherlands (2nd October 2024)."
-    text-de: "Keynote auf dem Cross-Border Symposium on Smart Farming Innovations zu „KI Adoption und Nutzung in der Landwirtschaft”, Twente, Die Niederlande (2. Oktober 2024)."
+    text-de: "Keynote auf dem Cross-Border Symposium zu Smart Farming Innovations zu „KI Adoption und Nutzung in der Landwirtschaft”, Twente, Die Niederlande (2. Oktober 2024)."
 
   - text: "Keynote at the final workshop of the ZAUber project - between autonomy and surveillance  on “People Analytics: Findings from Research”, Karlsruhe, Germany (30th September 2024)."
     text-de: "Keynote auf dem Abschlussworkshop des Projekts ZAUber – Zwischen Autonomie und Überwachung zu „People Analytics: Neues aus der Wissenschaft”, Karlsruhe, Deutschland (30. September 2024)."
@@ -45,7 +49,6 @@
     text-de: "Keynote auf der Dateninnovationen in der Praxis – Von der Datengewinnung bis zur KI zu „Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz”, Cloppenburg, Deutschland (24. September 2024)."
     links:
       download: "2024-09-24-presentation-joschka-huellmann-KI-arbeit-im-wandel.pdf"
-    featured: true
 
   - text: "Press coverage in OM-Online and MT-News: “On a very practical level: what are the benefits of AI models for my company?” (Roland Kühn, 19th September 2024)."
     text-de: "Presseerwähnung in OM-Online und MT-News: „Ganz praktisch: Was bringen meiner Firma KI-Modelle?” (Roland Kühn, 19. September 2024)."
