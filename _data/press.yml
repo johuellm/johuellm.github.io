@@ -1,5 +1,9 @@
 - section: "2025"
   items:
+  - text: "Talk at the Provinzial BPM, AI & Automation-Days 2025 on “Future of Work: Change Management for Applications of Artificial Intelligence”, Münster, Germany (16th December 2025)."
+    text-de: "Vortrag auf den Provinzial BPM, AI & Automation-Days 2025 zu „Arbeit im Wandel: Change Management für Anwendungen Künstlicher Intelligenz”, Münster, Deutschland (16. Dezember 2025)."
+    featured: true
+
   - text: "Talk at the Viadee Seminar on “Graph Neural Networks for Predictions in Sports and Esports”, Velbert, Germany (22nd November 2025)."
     text-de: "Vortrag auf dem Viadee Seminar zu „Graph Neural Networks für Vorhersagen im Sport und Esports”, Velbert, Deutschland (22. November 2025)."
     links:
@@ -15,7 +19,6 @@
     text-de: "Keynote auf den AMCON GmbH Kundentagen zu „Künstliche Intelligenz & Digitale Arbeit gestalten: Ein Fahrplan zur Arbeit der Zukunft”, Cloppenburg, Deutschland (7. Februar 2025)."
     links:
       download: "2025-02-01-presentation-amcon.pdf"
-    featured: true
 
 
 - section: "2024"
