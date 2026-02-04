@@ -1,6 +1,17 @@
 - section: "Working Papers"
   papers:
-  - text: "Hüllmann, J. A., Göritz, L., Hagen, S., Beinke, J. H., &amp; Thomas, O. (2024). Servitization in Automotive: The Digital Transformation of Selling Product-service Systems at a Large German Car Manufacturer."
+  - text: "Hüllmann, J. A., Beinke, J. H., &amp; Bartelheimer, C. (2026). Servitization in Automotive: The Digital Transformation of Selling Product-service Systems at a Large German Car Manufacturer (under review)."
+
+- section: "2026"
+  papers:
+  - text: "Hüllmann, J. A. (2026). Digital Trace Data as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., &amp; Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
+    links:
+      view: "https://link.springer.com/book/9783032054968"
+
+  - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2026). Paperless Everything: A Systematic Literature Review for the Design of Blockchain-based Document Management Systems. ACM Distributed Ledger Technologies: Research and Practice, 5(2), 1–25."
+    links:
+      view: "https://dl.acm.org/doi/10.1145/3737296"
+      download: "2025-06-10-ACM-blockchain-paperless-everything.pdf"
 
 - section: "2025"
   papers:
@@ -17,11 +28,6 @@
       english: "2025-08-25-Schmalenbach-IMPULSE-2025-ENGLISH-plain.pdf"
     featured: true
 
-  - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2025). Paperless Everything: A Systematic Literature Review for the Design of Blockchain-based Document Management Systems. ACM Distributed Ledger Technologies: Research and Practice, 5(2), 1–25."
-    links:
-      view: "https://dl.acm.org/doi/10.1145/3737296"
-      download: "2025-06-10-ACM-blockchain-paperless-everything.pdf"
-
   - text: "Raetze, S., Staedter, C. &amp; Hüllmann, J. A. (2025). Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda. Team Performance Management, 31(5-6), 364–389."
     links:
       view: "https://www.emerald.com/insight/content/doi/10.1108/tpm-09-2024-0109/full/html"
@@ -35,10 +41,6 @@
       download: "2025-04-29-Resilient_Corridors_Twin_Requirements_final_v2.pdf"
 
   - text: "Cheng, L., Hüllmann, J. A., Meijerink, J., &amp; van Riemsdijk, B. (2025). Exploring an Integrated Theoretical Framework for Ontology-Based Job Matching Algorithms for Persons with Disabilities. In Proceedings of the 3rd EIASM Workshop on People Analytics &amp; Algorithmic Management (PAAM), Enschede, The Netherlands."
-
-  - text: "Hüllmann, J. A. (2025). Digital Trace Data as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., &amp; Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
-    links:
-      view: "https://tracedata.ai.wu.ac.at/accepted-chapters/"
 
   - text: "Lansmann, S., Mattern, J., Krebber, S., &amp; Hüllmann, J. A. (2025). The future of working from home: A mixed-methods study with IT professionals to learn from enforced working from home. Information Technology &amp; People, 38(2), 626–659."
     links:
