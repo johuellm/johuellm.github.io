@@ -8,6 +8,7 @@
     links:
       view: "https://link.springer.com/book/9783032054968"
       download: "2026-02-09-draft-book-chapter-v15-plaintext-AAM.pdf"
+    featured: true
 
   - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2026). Paperless Everything: A Systematic Literature Review for the Design of Blockchain-based Document Management Systems. ACM Distributed Ledger Technologies: Research and Practice, 5(2), 1–25."
     links:
@@ -52,7 +53,6 @@
     links:
       view: "https://www.tandfonline.com/doi/abs/10.1080/10580530.2024.2349886"
       download: "2024-05-13-draft-v10-camera-ready-with-doi.pdf"
-    featured: true
 
 - section: "2024"
   papers:
