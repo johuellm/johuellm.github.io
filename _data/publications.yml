@@ -10,6 +10,17 @@
       download: "2026-02-09-draft-book-chapter-v15-plaintext-AAM.pdf"
     featured: true
 
+  - text: "Hüllmann, J. A., Gierlich-Joas, M., &amp; Stein, M.-K. (2026). When Technology Becomes an Ideological Battleground: How Data Ideology affects Affordance Actualization in People Analytics. Journal of the Association for Information Systems, 27(2)."
+    links:
+      view: "https://aisel.aisnet.org/jais/vol27/iss2/6/"
+      download: "2025-11-15-technology-ideological-battleground-people-analytics-jais.pdf"
+    featured: true
+
+  - text: "Weritz, P., & Hüllmann, J. A. (2026). Arbeitszufriedenheit durch die Balance Hybrider Arbeit. In Reindl, C., Wecke, B., & Irnich, U. (Eds.), Technologie und Organisation: Evidenzbasierte und praxistaugliche Impulse für eine gelungene Transformation."
+    links:
+      view: "https://www.lehmanns.de/shop/wirtschaft/89075540-9783658515102-technologie-und-organisation"
+      download: "2026-05-17-Weritz_Hllmann_Hybride Arbeit_revised final AAM.pdf"
+
   - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2026). Paperless Everything: A Systematic Literature Review for the Design of Blockchain-based Document Management Systems. ACM Distributed Ledger Technologies: Research and Practice, 5(2), 1–25."
     links:
       view: "https://dl.acm.org/doi/10.1145/3737296"
@@ -17,23 +28,17 @@
 
 - section: "2025"
   papers:
-  - text: "Hüllmann, J. A., Gierlich-Joas, M., &amp; Stein, M.-K. (2025). When Technology Becomes an Ideological Battleground: How Data Ideology affects Affordance Actualization in People Analytics. Journal of the Association for Information Systems (in press)."
-    links:
-      view: "https://aisel.aisnet.org/jais_preprints/213/"
-      download: "2025-11-15-technology-ideological-battleground-people-analytics-jais.pdf"
-    featured: true
-
   - text: "Hüllmann, J. A., Schafheitle, S. D., &amp; Weritz, P. (2025). People Analytics am Scheideweg: Vier Thesen für eine nachhaltige Kurskorrektur. Schmalenbach IMPULSE, 5, 1–15."
     links:
       view: "https://schmalenbach-impulse.de/people-analytics-am-scheideweg-vier-thesen-fuer-eine-nachhaltige-kurskorrektur/"
       download: "2025-06-25-Schmalenbach-IMPULSE-2025-5-Huellman-Schafheitle-Weritz.pdf"
       english: "2025-08-25-Schmalenbach-IMPULSE-2025-ENGLISH-plain.pdf"
-    featured: true
 
   - text: "Raetze, S., Staedter, C. &amp; Hüllmann, J. A. (2025). Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda. Team Performance Management, 31(5-6), 364–389."
     links:
       view: "https://www.emerald.com/insight/content/doi/10.1108/tpm-09-2024-0109/full/html"
       download: "2025-06-02-final-published-10-1108_tpm-09-2024-0109.pdf"
+    featured: true
 
   - text: "Meijerink, J., Schafheitle, S. D., Hüllmann, J. A., Renkema, M., van Riemsdijk, B., &amp; Bondarouk, T. (2025). The promises and perils of online labor platforms for the sustainable inclusion of people with a disability. In Proceedings of the 41st EGOS Colloquium 2025, Athens, Greece."
 

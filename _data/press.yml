@@ -1,15 +1,38 @@
+- section: "2026"
+  items:
+  - text: "Organizer and Co-Chair of the “17th Changing Nature of Work” Workshop at European Conference on Information Systems (ECIS), Milan, Italy (14th June 2026)."
+    text-de: "Organisator und Co-Chair des „17. Changing Nature of Work” Workshop auf der European Conference on Information Systems (ECIS), Mailand, Italien (14. Juni 2026)."
+    links:
+      view: "https://communities.aisnet.org/sigcnow/2026-cnow"
+    featured: true
+
+  - text: "Panel at Wirtschaftsinformatik-Nachwuchstreffen 2026 (German early career IS scholars‘ meetup) on “Career Paths after the PhD” (19th March 2026)."
+    text-de: "Panel beim Wirtschaftsinformatik-Nachwuchstreffen 2026 zum Thema „Karrierewege nach der Promotion” (19. März 2026)."
+    links:
+      view: "https://www.uni-goettingen.de/de/wint2026/702627.html"
+    featured: true
+
+
 - section: "2025"
   items:
   - text: "Talk at the Provinzial BPM, AI & Automation-Days 2025 on “Future of Work: Change Management for Applications of Artificial Intelligence”, Münster, Germany (16th December 2025)."
     text-de: "Vortrag auf den Provinzial BPM, AI & Automation-Days 2025 zu „Arbeit im Wandel: Change Management für Anwendungen Künstlicher Intelligenz”, Münster, Deutschland (16. Dezember 2025)."
-    featured: true
+
+  - text: "Press coverage in nwo.nl: “Four projects awarded funding to improve digital trust” (15th December 2025)."
+    text-de: "Presseerwähnung in nwo.nl: „Vier Projekte haben Fördermittel zur Stärkung des digitalen Vertrauens erhalten” (15. Dezember 2025)"
+    links:
+      view: "https://www.nwo.nl/en/news/four-projects-awarded-funding-to-improve-digital-trust"
 
   - text: "Talk at the Viadee Seminar on “Graph Neural Networks for Predictions in Sports and Esports”, Velbert, Germany (22nd November 2025)."
     text-de: "Vortrag auf dem Viadee Seminar zu „Graph Neural Networks für Vorhersagen im Sport und Esports”, Velbert, Deutschland (22. November 2025)."
     links:
       download: "2025-11-28-presentation-gnn-sports.pdf"
       english: "2025-12-03-presentation-gnn-sports-eng.pdf"
-    featured: true
+
+  - text: "Press coverage in b-tu.de: “Literature Review on Team Performance in Esports Published” (27th June 2025)."
+    text-de: "Presseerwähnung in nwo.nl: „Literature Review zum Thema Teamperformance im Esports erschienen” (27. Juni 2025)."
+    links:
+      view: "https://www.b-tu.de/gruendungsservice/aktuelles/nachrichten/ansicht/29309-literature-review-zum-thema-teamperformance-im-esports-erschienen"
 
   - text: "Best Reviewer Award at the European Conference on Information Systems (ECIS) 2025, Amman, Jordan."
     text-de: "Best Reviewer Award auf der European Conference on Information Systems (ECIS) 2025, Amman, Jordanien."
@@ -85,6 +108,11 @@
     links:
       view: "https://netzpalaver.de/2024/06/21/digitalisierungs-festival-von-d-velop-begeisterte-2-000-teilnehmende/"
 
+  - text: "Organizer and Co-Chair of the “14th Changing Nature of Work” Workshop at European Conference on Information Systems (ECIS), Paphos, Cyprus (16th June 2024)."
+    text-de: "Organisator und Co-Chair des “14. Changing Nature of Work” Workshop auf der European Conference on Information Systems (ECIS), Paphos, Zypern (16. Juni 2024)."
+    links:
+      view: "https://communities.aisnet.org/sigcnow/priorworkshops/14th-paphos"
+
   - text: "Keynote at the d.velop Summit 2024 on “Future of Work in the Age of AI”, Düsseldorf, Germany (12th June 2024)."
     text-de: "Keynote auf der d.velop Summit 2024 zu „Arbeit im Wandel: Das Zeitalter der Künstlichen Intelligenz”, Düsseldorf, Deutschland (12. Juni 2024)."
     links:
@@ -149,6 +177,11 @@
     links:
       view: "https://www.digitalhub.ms/stories/eventberichte/2023-09-25/muensterhack-2023-nachbericht"
       download: "2023-09-25-news-report-mentorenpreis-mshack23.pdf"
+
+  - text: "Organizer and Co-Chair of the “12th Changing Nature of Work” Workshop at European Conference on Information Systems (ECIS), Kristiansand, Denmark (13th June 2023)."
+    text-de: "Organisator und Co-Chair des “12. Changing Nature of Work” Workshop auf der European Conference on Information Systems (ECIS), Kristiansand, Dänemark (13. Juni 2023)."
+    links:
+      view: "https://communities.aisnet.org/sigcnow/priorworkshops/12th-kristiansand"
 
   - text: "Best Associate Editor Award at the European Conference on Information Systems (ECIS) 2023, Kristiansand, Norway."
     text-de: "Best Associate Editor Award auf der European Conference on Information Systems (ECIS) 2023, Kristiansand, Norwegen."
