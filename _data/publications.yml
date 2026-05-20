@@ -4,9 +4,9 @@
 
 - section: "2026"
   papers:
-  - text: "Hüllmann, J. A. (2026). Digital Trace Data as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., &amp; Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications."
+  - text: "Hüllmann, J. A. (2026). Digital Trace Data as Measurement Instruments for Variance-Theoretic Research in Information Systems. In Wurm, B., &amp; Mendling, J. (Eds.), Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications (pp. 225–248)."
     links:
-      view: "https://link.springer.com/book/9783032054968"
+      view: "https://link.springer.com/chapter/10.1007/978-3-032-05497-5_10"
       download: "2026-02-09-draft-book-chapter-v15-plaintext-AAM.pdf"
     featured: true
 
