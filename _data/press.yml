@@ -1,11 +1,23 @@
 - section: "2026"
   items:
+  - text: "Invited blog post by data studies bibliography on “Why Do People See Workplace Data So Differently?” (13th July 2026)."
+    text-de: "Eingeladener Blogbeitrag bei data studies bibliography zu: „Warum werden Workplace Data so unterschiedlich wahrgenommen?” (13. Juli 2026)"
+    links:
+      view: "https://www.datastudiesbibliography.org/blog/why-do-people-see-workplace-data-so-differently"
+      download: "2026-07-13-datastudiesbibliography.pdf"
+    featured: true
+
+  - text: "Keynote at the Thalia KI-Camp on “The Changing Nature of Work: How Artificial Intelligence is Changing Things”, Cloppenburg, Germany (8th Juli 2026)."
+    text-de: "Keynote auf dem Thalia KI-Camp zu „Arbeit im Wandel: Was ändert sich durch Künstliche Intelligenz?”, Cloppenburg, Deutschland (8. Juli 2026)."
+    links:
+      download: "2026-07-08-presentation-thalia-KI-day-public.pdf"
+    featured: true
+
   - text: "Invited blog post by viadee spark on “Human-in-the-Loop: Why Human Control Over AI Quickly Becomes an Illusion” (10th June 2026)."
     text-de: "Eingeladener Blog-Beitrag bei der viadee spark zu „Human-in-the-Loop: Warum menschliche Kontrolle bei KI schnell zur Illusion wird” (10. Juni 2026)"
     links:
       view: "https://www.viadee-spark.de/themen/human-in-the-loop/"
       download: "2026-06-10-blog-human-in-the-loop-viadee-spark.pdf"
-    featured: true
 
   - text: "Outstanding SIG Award 2025 of the Association for Information Systems (16th June 2026)."
     text-de: "Outstanding SIG Award 2025 der Association for Information Systems (16. Juni 2026)."
@@ -21,7 +33,6 @@
     text-de: "Organisator und Co-Chair des „17. Changing Nature of Work” Workshop auf der European Conference on Information Systems (ECIS), Mailand, Italien (14. Juni 2026)."
     links:
       view: "https://communities.aisnet.org/sigcnow/2026-cnow"
-    featured: true
 
   - text: "Panel at Wirtschaftsinformatik-Nachwuchstreffen 2026 (German early career IS scholars‘ meetup) on “Career Paths after the PhD” (19th March 2026)."
     text-de: "Panel beim Wirtschaftsinformatik-Nachwuchstreffen 2026 zum Thema „Karrierewege nach der Promotion” (19. März 2026)."
