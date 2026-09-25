@@ -82,6 +82,9 @@ language: de
                   {% if pr.links.code %}
                     <a href="{{pr.links.code}}">(code)</a>
                   {% endif %}
+                  {% if pr.links.watch %}
+                    <a href="{{pr.links.watch}}">(watch)</a>
+                  {% endif %}
             </p>
             {% assign item_index = item_index | minus: 1 %}
           {% endfor %}

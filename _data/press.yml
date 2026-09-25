@@ -7,14 +7,14 @@
       download: "2026-07-13-datastudiesbibliography.pdf"
     featured: true
 
-  - text: "Keynote at the Thalia KI-Camp on “The Changing Nature of Work: How Artificial Intelligence is Changing Things”, Cloppenburg, Germany (8th Juli 2026)."
-    text-de: "Keynote auf dem Thalia KI-Camp zu „Arbeit im Wandel: Was ändert sich durch Künstliche Intelligenz?”, Cloppenburg, Deutschland (8. Juli 2026)."
+  - text: "Keynote at the Thalia KI-Camp on “The Changing Nature of Work: How Artificial Intelligence is Changing Things”, Münster, Germany (8th Juli 2026)."
+    text-de: "Keynote auf dem Thalia KI-Camp zu „Arbeit im Wandel: Was ändert sich durch Künstliche Intelligenz?”, Münster, Deutschland (8. Juli 2026)."
     links:
       download: "2026-07-08-presentation-thalia-KI-day-public.pdf"
     featured: true
 
   - text: "Invited blog post by viadee spark on “Human-in-the-Loop: Why Human Control Over AI Quickly Becomes an Illusion” (10th June 2026)."
-    text-de: "Eingeladener Blog-Beitrag bei der viadee spark zu „Human-in-the-Loop: Warum menschliche Kontrolle bei KI schnell zur Illusion wird” (10. Juni 2026)"
+    text-de: "Eingeladener Blogbeitrag bei der viadee spark zu „Human-in-the-Loop: Warum menschliche Kontrolle bei KI schnell zur Illusion wird” (10. Juni 2026)"
     links:
       view: "https://www.viadee-spark.de/themen/human-in-the-loop/"
       download: "2026-06-10-blog-human-in-the-loop-viadee-spark.pdf"
@@ -39,6 +39,12 @@
     links:
       view: "https://www.uni-goettingen.de/de/wint2026/702627.html"
     featured: true
+
+  - text: "Talk at the NAVIGATE-Kongress on “More Than Just Prompting: The Path to Successful AI Chatbot Use”, Münster, Germany (17. March 2026)."
+    text-de: "Vortrag auf dem NAVIGATE-Kongress zu „Mehr als Prompting: Der Weg zur erfolgreichen KI-Chatbot-Nutzung”, Münster, Deutschland (17. März 2026)."
+    links:
+      view: "https://navigate-kongress.de/programm/mehr-als-prompting-der-weg-zur-erfolgreichen-ki-chatbot-nutzung/"
+      watch: "https://www.youtube.com/watch?v=QJWQ8-WH0Y8"
 
 
 - section: "2025"

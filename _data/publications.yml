@@ -6,7 +6,7 @@
   papers:
   - text: "Precht, H., Hüllmann, J. A., &amp; Gómez, J. M. (2026). Towards a Reference Architecture for Blockchain-based Document Management Systems. Proceedings of the 6th Workshop on Blockchain-based Architectures (in conjunction with ICSA 2026), Amsterdam, The Netherlands."
     links:
-      view: "#"
+      view: "https://doi.org/10.1109/ICSA-C68850.2026.00061"
       download: "2026-05-20-BlockArch2026-final.pdf"
 
   - text: "Hüllmann, J. A. (2026). Veränderung der Arbeit: Change Management für Anwendungen Künstlicher Intelligenz. HMD Praxis der Wirtschaftsinformatik."
