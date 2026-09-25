@@ -1,5 +1,11 @@
 - section: "2026"
   items:
+  - text: "Talk at the Community of Practice on Energy-Efficient Computing on “The Sustainability of Digital Trace Data for Behavioral Research”, Enschede, The Netherlands (24th September 2026)."
+    text-de: "Vortrag bei der Community of Practice on Energy-Efficient Computing zu „The Sustainability of Digital Trace Data for Behavioral Research”, Enschede, Die Niederlande (24. September 2026)."
+    links:
+      view: "https://www.utwente.nl/en/digital-society/news-events/events/2026/9/1140928/behavioural-and-organisational-perspectives-on-energy-efficient-computing#programme"
+      download: "2026-09-24-presentation-sustainable-digital-trace-data.pdf"
+
   - text: "Invited blog post by data studies bibliography on “Why Do People See Workplace Data So Differently?” (13th July 2026)."
     text-de: "Eingeladener Blogbeitrag bei data studies bibliography zu: „Warum werden Workplace Data so unterschiedlich wahrgenommen?” (13. Juli 2026)"
     links:
